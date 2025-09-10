@@ -1,0 +1,12 @@
+# Requisitos básicos para ejecutar el TFM (Python >= 3.9)
+# Nota: los *solvers* MILP (GLPK/CBC/Gurobi/CPLEX) se instalan por separado; Pyomo los detecta si están en el PATH.
+
+pandas
+numpy
+matplotlib
+pyomo
+openpyxl
+
+# Opcional según tu entorno/uso:
+# scipy        # si usas solvers no lineales (ej. Ipopt)
+# jupyter      # si quieres ejecutar notebooks

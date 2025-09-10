@@ -1,0 +1,1 @@
+PDDL: modo Excel. Hoja despacho usada: 'resumen_por_hora'. Resumen: {'costo_total': 1442000.0, 'runtime_s': None}

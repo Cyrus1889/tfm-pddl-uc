@@ -1,0 +1,2605 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 59
+Aibr Preprocessing
+|F|:72
+|X|:86
+|A|:132
+|P|:0
+|E|:0
+H1 Setup Time (msec): 24
+Setting horizon to:NaN
+Running Greedy Best First Search
+h(n = s_0)=1.646509E12
+ g(n)= 100.0 h(n)=1.6303847E12
+ g(n)= 200.0 h(n)=1.6142605E12
+ g(n)= 300.0 h(n)=1.5981361E12
+ g(n)= 400.0 h(n)=1.5820118E12
+ g(n)= 500.0 h(n)=1.5658874E12
+ g(n)= 600.0 h(n)=1.5497631E12
+ g(n)= 700.0 h(n)=1.5336389E12
+ g(n)= 800.0 h(n)=1.5175145E12
+ g(n)= 900.0 h(n)=1.5013902E12
+ g(n)= 1000.0 h(n)=1.485266E12
+ g(n)= 1100.0 h(n)=1.4691416E12
+ g(n)= 1200.0 h(n)=1.4530173E12
+ g(n)= 1300.0 h(n)=1.4368929E12
+ g(n)= 1400.0 h(n)=1.4207686E12
+ g(n)= 1500.0 h(n)=1.4046444E12
+ g(n)= 1600.0 h(n)=1.3885196E12
+ g(n)= 1700.0 h(n)=1.3723951E12
+ g(n)= 1800.0 h(n)=1.3562709E12
+ g(n)= 1900.0 h(n)=1.3401466E12
+ g(n)= 2000.0 h(n)=1.3240224E12
+ g(n)= 2100.0 h(n)=1.307898E12
+ g(n)= 2200.0 h(n)=1.2917738E12
+ g(n)= 2300.0 h(n)=1.2756493E12
+ g(n)= 2400.0 h(n)=1.2595251E12
+ g(n)= 2500.0 h(n)=1.2434006E12
+ g(n)= 2600.0 h(n)=1.2272764E12
+ g(n)= 2700.0 h(n)=1.2111522E12
+ g(n)= 2800.0 h(n)=1.1950279E12
+ g(n)= 2900.0 h(n)=1.1789035E12
+ g(n)= 3000.0 h(n)=1.1627793E12
+ g(n)= 3100.0 h(n)=1.146655E12
+ g(n)= 3200.0 h(n)=1.1305306E12
+ g(n)= 3300.0 h(n)=1.1144063E12
+ g(n)= 3400.0 h(n)=1.098282E12
+ g(n)= 3500.0 h(n)=1.0821577E12
+ g(n)= 3600.0 h(n)=1.06603335E12
+ g(n)= 3700.0 h(n)=1.049909E12
+ g(n)= 3800.0 h(n)=1.0337847E12
+ g(n)= 3900.0 h(n)=1.01766044E12
+ g(n)= 4000.0 h(n)=1.0015361E12
+ g(n)= 4100.0 h(n)=9.8541175E11
+ g(n)= 4200.0 h(n)=9.6928747E11
+ g(n)= 4300.0 h(n)=9.531632E11
+ g(n)= 4400.0 h(n)=9.3703884E11
+ g(n)= 24300.0 h(n)=8.241687E11
+ g(n)= 25200.0 h(n)=6.7904995E11
+ g(n)= 26100.0 h(n)=5.339311E11
+ g(n)= 27100.0 h(n)=5.2855633E11
+ g(n)= 27200.0 h(n)=5.2318156E11
+ g(n)= 27300.0 h(n)=5.178068E11
+ g(n)= 27400.0 h(n)=5.12432E11
+ g(n)= 27500.0 h(n)=5.0705724E11
+ g(n)= 27600.0 h(n)=5.0168247E11
+ g(n)= 27700.0 h(n)=4.963077E11
+ g(n)= 27800.0 h(n)=4.9093293E11
+ g(n)= 27900.0 h(n)=4.8555816E11
+ g(n)= 28000.0 h(n)=4.801834E11
+ g(n)= 28100.0 h(n)=4.748086E11
+ g(n)= 28200.0 h(n)=4.6943384E11
+ g(n)= 28300.0 h(n)=4.6405907E11
+ g(n)= 28400.0 h(n)=4.586843E11
+ g(n)= 28500.0 h(n)=4.5330953E11
+ g(n)= 28600.0 h(n)=4.4793476E11
+ g(n)= 28700.0 h(n)=4.4256E11
+ g(n)= 28800.0 h(n)=4.3718522E11
+ g(n)= 28900.0 h(n)=4.3181045E11
+ g(n)= 29000.0 h(n)=4.2643567E11
+ g(n)= 29100.0 h(n)=4.210609E11
+ g(n)= 29200.0 h(n)=4.1568613E11
+ g(n)= 29300.0 h(n)=4.103114E11
+ g(n)= 29400.0 h(n)=4.0493662E11
+ g(n)= 29500.0 h(n)=3.9956185E11
+ g(n)= 29600.0 h(n)=3.9418708E11
+ g(n)= 29700.0 h(n)=3.888123E11
+ g(n)= 29800.0 h(n)=3.8343754E11
+ g(n)= 29900.0 h(n)=3.7806277E11
+ g(n)= 30000.0 h(n)=3.72688E11
+ g(n)= 30100.0 h(n)=3.6731322E11
+ g(n)= 30200.0 h(n)=3.6193845E11
+ g(n)= 30300.0 h(n)=3.5656368E11
+ g(n)= 30400.0 h(n)=3.511889E11
+ g(n)= 30500.0 h(n)=3.4581414E11
+ g(n)= 30600.0 h(n)=3.4043937E11
+ g(n)= 30700.0 h(n)=3.350646E11
+ g(n)= 30800.0 h(n)=3.2968983E11
+ g(n)= 30900.0 h(n)=3.2431505E11
+ g(n)= 31000.0 h(n)=3.1894028E11
+ g(n)= 31100.0 h(n)=3.135655E11
+ g(n)= 31200.0 h(n)=3.0819077E11
+ g(n)= 31300.0 h(n)=3.0281597E11
+ g(n)= 31400.0 h(n)=2.9744123E11
+ g(n)= 49500.0 h(n)=2.7056736E11
+ g(n)= 50400.0 h(n)=2.2219442E11
+ g(n)= 51300.0 h(n)=1.738215E11
+ g(n)= 52300.0 h(n)=1.720299E11
+ g(n)= 52400.0 h(n)=1.7023831E11
+ g(n)= 52500.0 h(n)=1.6844672E11
+ g(n)= 52600.0 h(n)=1.6665513E11
+ g(n)= 52700.0 h(n)=1.6486354E11
+ g(n)= 52800.0 h(n)=1.6307195E11
+ g(n)= 52900.0 h(n)=1.6128036E11
+ g(n)= 53000.0 h(n)=1.5948877E11
+ g(n)= 53100.0 h(n)=1.5769718E11
+ g(n)= 53200.0 h(n)=1.5590559E11
+ g(n)= 53300.0 h(n)=1.54114E11
+ g(n)= 53400.0 h(n)=1.5232241E11
+ g(n)= 53500.0 h(n)=1.5053082E11
+ g(n)= 53600.0 h(n)=1.4873923E11
+ g(n)= 53700.0 h(n)=1.4694764E11
+ g(n)= 53800.0 h(n)=1.4515605E11
+ g(n)= 53900.0 h(n)=1.4336446E11
+ g(n)= 54000.0 h(n)=1.4157287E11
+ g(n)= 54100.0 h(n)=1.3978128E11
+ g(n)= 54200.0 h(n)=1.3798969E11
+ g(n)= 54300.0 h(n)=1.3619809E11
+ g(n)= 54400.0 h(n)=1.344065E11
+ g(n)= 54500.0 h(n)=1.32614906E11
+ g(n)= 54600.0 h(n)=1.30823315E11
+ g(n)= 54700.0 h(n)=1.29031725E11
+ g(n)= 54800.0 h(n)=1.27240135E11
+ g(n)= 54900.0 h(n)=1.25448544E11
+ g(n)= 55000.0 h(n)=1.2365695E11
+ g(n)= 55100.0 h(n)=1.2186536E11
+ g(n)= 55200.0 h(n)=1.2007377E11
+ g(n)= 55300.0 h(n)=1.1828218E11
+ g(n)= 55400.0 h(n)=1.1649059E11
+ g(n)= 55500.0 h(n)=1.14699E11
+ g(n)= 55600.0 h(n)=1.1290741E11
+ g(n)= 55700.0 h(n)=1.1111582E11
+ g(n)= 55800.0 h(n)=1.0932423E11
+ g(n)= 55900.0 h(n)=1.0753264E11
+ g(n)= 56000.0 h(n)=1.0574105E11
+ g(n)= 56100.0 h(n)=1.0394946E11
+ g(n)= 56200.0 h(n)=1.0215787E11
+ g(n)= 56300.0 h(n)=1.0036628E11
+ g(n)= 56400.0 h(n)=9.857469E10
+ g(n)= 56500.0 h(n)=9.67831E10
+ g(n)= 56600.0 h(n)=9.499151E10
+ g(n)= 72900.0 h(n)=8.961674E10
+ g(n)= 73800.0 h(n)=7.349244E10
+ g(n)= 74700.0 h(n)=5.736812E10
+ g(n)= 75700.0 h(n)=5.6770925E10
+ g(n)= 75800.0 h(n)=5.6173728E10
+ g(n)= 75900.0 h(n)=5.557653E10
+ g(n)= 76000.0 h(n)=5.4979334E10
+ g(n)= 76100.0 h(n)=5.4382137E10
+ g(n)= 76200.0 h(n)=5.378494E10
+ g(n)= 76300.0 h(n)=5.3187744E10
+ g(n)= 76400.0 h(n)=5.2590547E10
+ g(n)= 76500.0 h(n)=5.199335E10
+ g(n)= 76600.0 h(n)=5.1396153E10
+ g(n)= 76700.0 h(n)=5.0798957E10
+ g(n)= 76800.0 h(n)=5.020176E10
+ g(n)= 76900.0 h(n)=4.9604563E10
+ g(n)= 77000.0 h(n)=4.9007366E10
+ g(n)= 77100.0 h(n)=4.841017E10
+ g(n)= 77200.0 h(n)=4.7812973E10
+ g(n)= 77300.0 h(n)=4.7215776E10
+ g(n)= 77400.0 h(n)=4.661858E10
+ g(n)= 77500.0 h(n)=4.6021382E10
+ g(n)= 77600.0 h(n)=4.5424185E10
+ g(n)= 77700.0 h(n)=4.482699E10
+ g(n)= 77800.0 h(n)=4.422979E10
+ g(n)= 77900.0 h(n)=4.3632595E10
+ g(n)= 78000.0 h(n)=4.303539E10
+ g(n)= 78100.0 h(n)=4.2438193E10
+ g(n)= 78200.0 h(n)=4.1840996E10
+ g(n)= 78300.0 h(n)=4.12438E10
+ g(n)= 78400.0 h(n)=4.0646603E10
+ g(n)= 78500.0 h(n)=4.0049406E10
+ g(n)= 78600.0 h(n)=3.945221E10
+ g(n)= 78700.0 h(n)=3.8855012E10
+ g(n)= 78800.0 h(n)=3.825782E10
+ g(n)= 78900.0 h(n)=3.7660623E10
+ g(n)= 79000.0 h(n)=3.7063426E10
+ g(n)= 79100.0 h(n)=3.646623E10
+ g(n)= 79200.0 h(n)=3.5869032E10
+ g(n)= 79300.0 h(n)=3.5271836E10
+ g(n)= 79400.0 h(n)=3.467464E10
+ g(n)= 79500.0 h(n)=3.407744E10
+ g(n)= 79600.0 h(n)=3.3480243E10
+ g(n)= 79700.0 h(n)=3.2883046E10
+ g(n)= 79800.0 h(n)=3.228585E10
+ g(n)= 79900.0 h(n)=3.1688653E10
+ g(n)= 80000.0 h(n)=3.1091456E10
+ g(n)= 95400.0 h(n)=2.9897062E10
+ g(n)= 96300.0 h(n)=2.452229E10
+ g(n)= 97200.0 h(n)=1.9147522E10
+ g(n)= 98200.0 h(n)=1.8948456E10
+ g(n)= 98300.0 h(n)=1.874939E10
+ g(n)= 98400.0 h(n)=1.8550325E10
+ g(n)= 98500.0 h(n)=1.835126E10
+ g(n)= 98600.0 h(n)=1.8152194E10
+ g(n)= 98700.0 h(n)=1.7953128E10
+ g(n)= 98800.0 h(n)=1.7754063E10
+ g(n)= 98900.0 h(n)=1.7554997E10
+ g(n)= 99000.0 h(n)=1.7355932E10
+ g(n)= 99100.0 h(n)=1.7156866E10
+ g(n)= 99200.0 h(n)=1.69578E10
+ g(n)= 99300.0 h(n)=1.6758735E10
+ g(n)= 99400.0 h(n)=1.6559669E10
+ g(n)= 99500.0 h(n)=1.6360604E10
+ g(n)= 99600.0 h(n)=1.6161538E10
+ g(n)= 99700.0 h(n)=1.5962472E10
+ g(n)= 99800.0 h(n)=1.5763407E10
+ g(n)= 99900.0 h(n)=1.5564341E10
+ g(n)= 100000.0 h(n)=1.5365276E10
+ g(n)= 100100.0 h(n)=1.516621E10
+ g(n)= 100200.0 h(n)=1.4967144E10
+ g(n)= 100300.0 h(n)=1.4768079E10
+ g(n)= 100400.0 h(n)=1.4569013E10
+ g(n)= 100500.0 h(n)=1.4369948E10
+ g(n)= 100600.0 h(n)=1.4170882E10
+ g(n)= 100700.0 h(n)=1.3971816E10
+ g(n)= 100800.0 h(n)=1.3772751E10
+ g(n)= 100900.0 h(n)=1.3573685E10
+ g(n)= 101000.0 h(n)=1.337462E10
+ g(n)= 101100.0 h(n)=1.3175554E10
+ g(n)= 101200.0 h(n)=1.2976488E10
+ g(n)= 101300.0 h(n)=1.2777423E10
+ g(n)= 101400.0 h(n)=1.2578357E10
+ g(n)= 101500.0 h(n)=1.2379292E10
+ g(n)= 101600.0 h(n)=1.2180226E10
+ g(n)= 101700.0 h(n)=1.198116E10
+ g(n)= 101800.0 h(n)=1.1782095E10
+ g(n)= 101900.0 h(n)=1.1583029E10
+ g(n)= 102000.0 h(n)=1.1383964E10
+ g(n)= 102100.0 h(n)=1.1184898E10
+ g(n)= 102200.0 h(n)=1.0985832E10
+ g(n)= 102300.0 h(n)=1.0786768E10
+ g(n)= 102400.0 h(n)=1.0587702E10
+ g(n)= 102500.0 h(n)=1.0388637E10
+ g(n)= 117000.0 h(n)=1.0189571E10
+ g(n)= 117900.0 h(n)=8.3979807E9
+ g(n)= 118800.0 h(n)=6.6063903E9
+ g(n)= 119800.0 h(n)=6.540035E9
+ g(n)= 119900.0 h(n)=6.47368E9
+ g(n)= 120000.0 h(n)=6.4073247E9
+ g(n)= 120100.0 h(n)=6.3409695E9
+ g(n)= 120200.0 h(n)=6.2746143E9
+ g(n)= 120300.0 h(n)=6.208259E9
+ g(n)= 120400.0 h(n)=6.141904E9
+ g(n)= 120500.0 h(n)=6.0755487E9
+ g(n)= 120600.0 h(n)=6.0091935E9
+ g(n)= 120700.0 h(n)=5.9428383E9
+ g(n)= 120800.0 h(n)=5.876483E9
+ g(n)= 120900.0 h(n)=5.810128E9
+ g(n)= 121000.0 h(n)=5.7437727E9
+ g(n)= 121100.0 h(n)=5.6774175E9
+ g(n)= 121200.0 h(n)=5.6110623E9
+ g(n)= 121300.0 h(n)=5.544707E9
+ g(n)= 121400.0 h(n)=5.478352E9
+ g(n)= 121500.0 h(n)=5.4119967E9
+ g(n)= 121600.0 h(n)=5.3456415E9
+ g(n)= 121700.0 h(n)=5.2792863E9
+ g(n)= 121800.0 h(n)=5.212931E9
+ g(n)= 121900.0 h(n)=5.146576E9
+ g(n)= 122000.0 h(n)=5.0802207E9
+ g(n)= 122100.0 h(n)=5.0138655E9
+ g(n)= 122200.0 h(n)=4.9475103E9
+ g(n)= 122300.0 h(n)=4.881155E9
+ g(n)= 122400.0 h(n)=4.8147994E9
+ g(n)= 122500.0 h(n)=4.748444E9
+ g(n)= 122600.0 h(n)=4.682089E9
+ g(n)= 122700.0 h(n)=4.615734E9
+ g(n)= 122800.0 h(n)=4.5493786E9
+ g(n)= 122900.0 h(n)=4.4830234E9
+ g(n)= 123000.0 h(n)=4.416668E9
+ g(n)= 123100.0 h(n)=4.350313E9
+ g(n)= 123200.0 h(n)=4.2839578E9
+ g(n)= 123300.0 h(n)=4.2176026E9
+ g(n)= 123400.0 h(n)=4.1512474E9
+ g(n)= 123500.0 h(n)=4.0848922E9
+ g(n)= 123600.0 h(n)=4.018537E9
+ g(n)= 123700.0 h(n)=3.9521818E9
+ g(n)= 123800.0 h(n)=3.8858266E9
+ g(n)= 123900.0 h(n)=3.8194714E9
+ g(n)= 124000.0 h(n)=3.7531162E9
+ g(n)= 124100.0 h(n)=3.686761E9
+ g(n)= 139500.0 h(n)=3.5540503E9
+ g(n)= 140400.0 h(n)=2.9568535E9
+ g(n)= 141300.0 h(n)=2.3596564E9
+ g(n)= 142250.0 h(n)=2.3430676E9
+ g(n)= 145600.0 h(n)=2.30989E9
+ g(n)= 145700.0 h(n)=2.2767124E9
+ g(n)= 145800.0 h(n)=2.2435348E9
+ g(n)= 145900.0 h(n)=2.2103572E9
+ g(n)= 146000.0 h(n)=2.1771796E9
+ g(n)= 146100.0 h(n)=2.1440022E9
+ g(n)= 146200.0 h(n)=2.1108246E9
+ g(n)= 146300.0 h(n)=2.077647E9
+ g(n)= 146400.0 h(n)=2.0444694E9
+ g(n)= 146500.0 h(n)=2.0112918E9
+ g(n)= 146600.0 h(n)=1.9781142E9
+ g(n)= 146700.0 h(n)=1.9449366E9
+ g(n)= 163000.0 h(n)=1.8454038E9
+ g(n)= 163900.0 h(n)=1.5468054E9
+ g(n)= 164800.0 h(n)=1.248207E9
+ g(n)= 165750.0 h(n)=1.2399126E9
+ g(n)= 165800.0 h(n)=1.2316182E9
+ g(n)= 165850.0 h(n)=1.2233238E9
+ g(n)= 165900.0 h(n)=1.2150294E9
+ g(n)= 165950.0 h(n)=1.206735E9
+ g(n)= 169300.0 h(n)=1.1901462E9
+ g(n)= 169400.0 h(n)=1.1735574E9
+ g(n)= 169500.0 h(n)=1.1569686E9
+ g(n)= 169600.0 h(n)=1.1403798E9
+ g(n)= 169700.0 h(n)=1.123791E9
+ g(n)= 169800.0 h(n)=1.1072022E9
+ g(n)= 169900.0 h(n)=1.0906134E9
+ g(n)= 170000.0 h(n)=1.0740246E9
+ g(n)= 170100.0 h(n)=1.0574358E9
+ g(n)= 170200.0 h(n)=1.040847E9
+ g(n)= 170300.0 h(n)=1.0242582E9
+ g(n)= 170400.0 h(n)=1.0076694E9
+ g(n)= 186700.0 h(n)=9.57903E8
+ g(n)= 187600.0 h(n)=8.0860365E8
+ g(n)= 188500.0 h(n)=6.5930445E8
+ g(n)= 189450.0 h(n)=6.5515725E8
+ g(n)= 189500.0 h(n)=6.5101005E8
+ g(n)= 189550.0 h(n)=6.4686285E8
+ g(n)= 189600.0 h(n)=6.4271565E8
+ g(n)= 189650.0 h(n)=6.3856845E8
+ g(n)= 189700.0 h(n)=6.3442125E8
+ g(n)= 189750.0 h(n)=6.3027405E8
+ g(n)= 189800.0 h(n)=6.2612685E8
+ g(n)= 189850.0 h(n)=6.2197965E8
+ g(n)= 189900.0 h(n)=6.1783245E8
+ g(n)= 189950.0 h(n)=6.1368525E8
+ g(n)= 190000.0 h(n)=6.0953805E8
+ g(n)= 190050.0 h(n)=6.0539085E8
+ g(n)= 193300.0 h(n)=5.9709645E8
+ g(n)= 193400.0 h(n)=5.8880205E8
+ g(n)= 193500.0 h(n)=5.8050765E8
+ g(n)= 193600.0 h(n)=5.7221325E8
+ g(n)= 193700.0 h(n)=5.6391885E8
+ g(n)= 193800.0 h(n)=5.5562445E8
+ g(n)= 193900.0 h(n)=5.4733005E8
+ g(n)= 194000.0 h(n)=5.3903565E8
+ g(n)= 194100.0 h(n)=5.3074122E8
+ g(n)= 194200.0 h(n)=5.2244682E8
+ g(n)= 194300.0 h(n)=5.1415242E8
+ g(n)= 194400.0 h(n)=5.0585802E8
+ g(n)= 194500.0 h(n)=4.9756362E8
+ g(n)= 209000.0 h(n)=4.8926922E8
+ g(n)= 209900.0 h(n)=4.1461962E8
+ g(n)= 210800.0 h(n)=3.3997005E8
+ g(n)= 211750.0 h(n)=3.3789645E8
+ g(n)= 211800.0 h(n)=3.3582285E8
+ g(n)= 211850.0 h(n)=3.3374925E8
+ g(n)= 211900.0 h(n)=3.3167565E8
+ g(n)= 211950.0 h(n)=3.2960205E8
+ g(n)= 212000.0 h(n)=3.2752845E8
+ g(n)= 212050.0 h(n)=3.2545485E8
+ g(n)= 212100.0 h(n)=3.2338125E8
+ g(n)= 212150.0 h(n)=3.2130765E8
+ g(n)= 212200.0 h(n)=3.1923405E8
+ g(n)= 212250.0 h(n)=3.1716045E8
+ g(n)= 212300.0 h(n)=3.1508685E8
+ g(n)= 212350.0 h(n)=3.1301325E8
+ g(n)= 212400.0 h(n)=3.1093965E8
+ g(n)= 212450.0 h(n)=3.0886605E8
+ g(n)= 212500.0 h(n)=3.0679245E8
+ g(n)= 212550.0 h(n)=3.0471885E8
+ g(n)= 212600.0 h(n)=3.0264525E8
+ g(n)= 212650.0 h(n)=3.0057165E8
+ g(n)= 212700.0 h(n)=2.9849805E8
+ g(n)= 212750.0 h(n)=2.9642445E8
+ g(n)= 215800.0 h(n)=2.9227725E8
+ g(n)= 215900.0 h(n)=2.8813005E8
+ g(n)= 216000.0 h(n)=2.8398285E8
+ g(n)= 216100.0 h(n)=2.7983565E8
+ g(n)= 216200.0 h(n)=2.7568845E8
+ g(n)= 216300.0 h(n)=2.7154125E8
+ g(n)= 216400.0 h(n)=2.6739405E8
+ g(n)= 216500.0 h(n)=2.6324685E8
+ g(n)= 216600.0 h(n)=2.5909965E8
+ g(n)= 216700.0 h(n)=2.5495245E8
+ g(n)= 216800.0 h(n)=2.5080525E8
+ g(n)= 216900.0 h(n)=2.4665805E8
+ g(n)= 217000.0 h(n)=2.4251085E8
+ g(n)= 217100.0 h(n)=2.3836365E8
+ g(n)= 217200.0 h(n)=2.3421645E8
+ g(n)= 229000.0 h(n)=2.0933325E8
+ g(n)= 229900.0 h(n)=1.7200845E8
+ g(n)= 230850.0 h(n)=1.7097165E8
+ g(n)= 230900.0 h(n)=1.6993485E8
+ g(n)= 230950.0 h(n)=1.6889805E8
+ g(n)= 231000.0 h(n)=1.6786125E8
+ g(n)= 231050.0 h(n)=1.6682445E8
+ g(n)= 231100.0 h(n)=1.6578765E8
+ g(n)= 231150.0 h(n)=1.6475085E8
+ g(n)= 231200.0 h(n)=1.6371405E8
+ g(n)= 231250.0 h(n)=1.6267725E8
+ g(n)= 231300.0 h(n)=1.6164045E8
+ g(n)= 231350.0 h(n)=1.6060365E8
+ g(n)= 231400.0 h(n)=1.5956685E8
+ g(n)= 231450.0 h(n)=1.5853005E8
+ g(n)= 231500.0 h(n)=1.5749325E8
+ g(n)= 231550.0 h(n)=1.5645645E8
+ g(n)= 231600.0 h(n)=1.5541965E8
+ g(n)= 231650.0 h(n)=1.5438285E8
+ g(n)= 231700.0 h(n)=1.5334605E8
+ g(n)= 231750.0 h(n)=1.5230925E8
+ g(n)= 231800.0 h(n)=1.5127245E8
+ g(n)= 231850.0 h(n)=1.5023565E8
+ g(n)= 231900.0 h(n)=1.4919885E8
+ g(n)= 231950.0 h(n)=1.4816205E8
+ g(n)= 232000.0 h(n)=1.4712525E8
+ g(n)= 232050.0 h(n)=1.4608845E8
+ g(n)= 232100.0 h(n)=1.4505165E8
+ g(n)= 234950.0 h(n)=1.4401485E8
+ g(n)= 235050.0 h(n)=1.4194125E8
+ g(n)= 235150.0 h(n)=1.3986765E8
+ g(n)= 235250.0 h(n)=1.3779405E8
+ g(n)= 235350.0 h(n)=1.3572045E8
+ g(n)= 235450.0 h(n)=1.3364684E8
+ g(n)= 235550.0 h(n)=1.3157324E8
+ g(n)= 235650.0 h(n)=1.2949964E8
+ g(n)= 235750.0 h(n)=1.2742604E8
+ g(n)= 235850.0 h(n)=1.2535244E8
+ g(n)= 235950.0 h(n)=1.2327884E8
+ g(n)= 236050.0 h(n)=1.2120524E8
+ g(n)= 236150.0 h(n)=1.1913164E8
+ g(n)= 236250.0 h(n)=1.1705804E8
+ g(n)= 236350.0 h(n)=1.1498444E8
+ g(n)= 236450.0 h(n)=1.1291084E8
+ g(n)= 236550.0 h(n)=1.1083724E8
+ g(n)= 245650.0 h(n)=1.0461644E8
+ g(n)= 246550.0 h(n)=8.595405E7
+ g(n)= 247500.0 h(n)=8.543565E7
+ g(n)= 247550.0 h(n)=8.491725E7
+ g(n)= 247600.0 h(n)=8.439885E7
+ g(n)= 247650.0 h(n)=8.388045E7
+ g(n)= 247700.0 h(n)=8.336205E7
+ g(n)= 247750.0 h(n)=8.284365E7
+ g(n)= 247800.0 h(n)=8.232525E7
+ g(n)= 247850.0 h(n)=8.180685E7
+ g(n)= 247900.0 h(n)=8.128845E7
+ g(n)= 247950.0 h(n)=8.077005E7
+ g(n)= 248000.0 h(n)=8.025165E7
+ g(n)= 248050.0 h(n)=7.973325E7
+ g(n)= 248100.0 h(n)=7.921485E7
+ g(n)= 248150.0 h(n)=7.869645E7
+ g(n)= 248200.0 h(n)=7.817805E7
+ g(n)= 248250.0 h(n)=7.765965E7
+ g(n)= 248300.0 h(n)=7.714125E7
+ g(n)= 248350.0 h(n)=7.662285E7
+ g(n)= 248400.0 h(n)=7.610445E7
+ g(n)= 248450.0 h(n)=7.558605E7
+ g(n)= 248500.0 h(n)=7.506765E7
+ g(n)= 248550.0 h(n)=7.454925E7
+ g(n)= 248600.0 h(n)=7.403085E7
+ g(n)= 248650.0 h(n)=7.351245E7
+ g(n)= 248700.0 h(n)=7.299405E7
+ g(n)= 248750.0 h(n)=7.247565E7
+ g(n)= 248800.0 h(n)=7.195725E7
+ g(n)= 248850.0 h(n)=7.143885E7
+ g(n)= 441750.0 h(n)=7.056565E7
+ g(n)= 442650.0 h(n)=6.156565E7
+ g(n)= 443550.0 h(n)=5.256565E7
+ g(n)= 444500.0 h(n)=5.231565E7
+ g(n)= 444550.0 h(n)=5.206565E7
+ g(n)= 444600.0 h(n)=5.181565E7
+ g(n)= 444650.0 h(n)=5.156565E7
+ g(n)= 444700.0 h(n)=5.131565E7
+ g(n)= 444750.0 h(n)=5.106565E7
+ g(n)= 444800.0 h(n)=5.081565E7
+ g(n)= 444850.0 h(n)=5.056565E7
+ g(n)= 444900.0 h(n)=5.031565E7
+ g(n)= 444950.0 h(n)=5.006565E7
+ g(n)= 445000.0 h(n)=4.981565E7
+ g(n)= 445050.0 h(n)=4.956565E7
+ g(n)= 445100.0 h(n)=4.931565E7
+ g(n)= 445150.0 h(n)=4.906565E7
+ g(n)= 445200.0 h(n)=4.881565E7
+ g(n)= 445250.0 h(n)=4.856565E7
+ g(n)= 445300.0 h(n)=4.831565E7
+ g(n)= 445350.0 h(n)=4.806565E7
+ g(n)= 445400.0 h(n)=4.781565E7
+ g(n)= 445450.0 h(n)=4.756565E7
+ g(n)= 496800.0 h(n)=4.581565E7
+ g(n)= 497700.0 h(n)=4.131565E7
+ g(n)= 498600.0 h(n)=3.681565E7
+ g(n)= 499500.0 h(n)=3.231565E7
+ g(n)= 500450.0 h(n)=3.219065E7
+ g(n)= 500500.0 h(n)=3.206565E7
+ g(n)= 500550.0 h(n)=3.194065E7
+ g(n)= 500600.0 h(n)=3.181565E7
+ g(n)= 500650.0 h(n)=3.169065E7
+ g(n)= 500700.0 h(n)=3.156565E7
+ g(n)= 500750.0 h(n)=3.144065E7
+ g(n)= 500800.0 h(n)=3.131565E7
+ g(n)= 500850.0 h(n)=3.119065E7
+ g(n)= 500900.0 h(n)=3.106565E7
+ g(n)= 500950.0 h(n)=3.094065E7
+ g(n)= 501000.0 h(n)=3.081565E7
+ g(n)= 501050.0 h(n)=3.069065E7
+ g(n)= 501100.0 h(n)=3.056565E7
+ g(n)= 560550.0 h(n)=2.844065E7
+ g(n)= 561450.0 h(n)=2.619065E7
+ g(n)= 562350.0 h(n)=2.394065E7
+ g(n)= 563250.0 h(n)=2.169065E7
+ g(n)= 564200.0 h(n)=2.162815E7
+ g(n)= 564250.0 h(n)=2.156565E7
+ g(n)= 564300.0 h(n)=2.150315E7
+ g(n)= 564350.0 h(n)=2.144065E7
+ g(n)= 564400.0 h(n)=2.137815E7
+ g(n)= 564450.0 h(n)=2.131565E7
+ g(n)= 564500.0 h(n)=2.125315E7
+ g(n)= 623050.0 h(n)=2.062815E7
+ g(n)= 623950.0 h(n)=1.950315E7
+ g(n)= 624850.0 h(n)=1.837815E7
+ g(n)= 625750.0 h(n)=1.67469E7
+ g(n)= 626650.0 h(n)=1.49469E7
+ g(n)= 627600.0 h(n)=1.48969E7
+ g(n)= 685250.0 h(n)=1.47969E7
+ g(n)= 686150.0 h(n)=1.38969E7
+ g(n)= 687050.0 h(n)=1.29969E7
+ g(n)= 687950.0 h(n)=1.20969E7
+ g(n)= 688850.0 h(n)=1.11969E7
+ g(n)= 689750.0 h(n)=1.02969E7
+ g(n)= 691550.0 h(n)=1.01844E7
+ g(n)= 692450.0 h(n)=1.00719E7
+ g(n)= 693350.0 h(n)=9959400.0
+ g(n)= 694250.0 h(n)=9846900.0
+ g(n)= 695150.0 h(n)=9734400.0
+ g(n)= 696050.0 h(n)=9621900.0
+ g(n)= 696950.0 h(n)=9509400.0
+ g(n)= 697850.0 h(n)=9396900.0
+ g(n)= 698750.0 h(n)=9284400.0
+ g(n)= 699650.0 h(n)=9171900.0
+ g(n)= 700550.0 h(n)=9059400.0
+ g(n)= 701450.0 h(n)=8946900.0
+ g(n)= 702350.0 h(n)=8834400.0
+ g(n)= 703250.0 h(n)=8721900.0
+ g(n)= 704150.0 h(n)=8609400.0
+ g(n)= 705050.0 h(n)=8496900.0
+ g(n)= 705950.0 h(n)=8384400.0
+ g(n)= 706850.0 h(n)=8271900.0
+ g(n)= 707750.0 h(n)=8159400.0
+ g(n)= 708650.0 h(n)=8046900.0
+ g(n)= 709550.0 h(n)=7934400.0
+ g(n)= 710450.0 h(n)=7821900.0
+ g(n)= 711350.0 h(n)=7709400.0
+ g(n)= 712250.0 h(n)=7596900.0
+ g(n)= 713150.0 h(n)=7484400.0
+ g(n)= 714050.0 h(n)=7371900.0
+ g(n)= 714950.0 h(n)=7259400.0
+ g(n)= 715850.0 h(n)=7146900.0
+ g(n)= 716750.0 h(n)=7034400.0
+ g(n)= 717650.0 h(n)=6921900.0
+ g(n)= 718550.0 h(n)=6809400.0
+ g(n)= 719450.0 h(n)=6696900.0
+ g(n)= 720350.0 h(n)=6584400.0
+ g(n)= 721250.0 h(n)=6471900.0
+ g(n)= 722150.0 h(n)=6359400.0
+ g(n)= 723050.0 h(n)=6246900.0
+ g(n)= 723950.0 h(n)=6134400.0
+ g(n)= 724850.0 h(n)=6021900.0
+ g(n)= 725750.0 h(n)=5909400.0
+ g(n)= 726650.0 h(n)=5796900.0
+ g(n)= 727550.0 h(n)=5684400.0
+ g(n)= 728450.0 h(n)=5571900.0
+ g(n)= 729350.0 h(n)=5459400.0
+ g(n)= 730250.0 h(n)=5346900.0
+ g(n)= 731150.0 h(n)=5234400.0
+ g(n)= 732050.0 h(n)=5121900.0
+ g(n)= 732950.0 h(n)=5009400.0
+ g(n)= 733850.0 h(n)=4896900.0
+ g(n)= 734750.0 h(n)=4784400.0
+ g(n)= 735650.0 h(n)=4671900.0
+ g(n)= 736550.0 h(n)=4559400.0
+ g(n)= 737450.0 h(n)=4446900.0
+ g(n)= 738350.0 h(n)=4334400.0
+ g(n)= 739250.0 h(n)=4221900.0
+ g(n)= 740150.0 h(n)=4109400.0
+ g(n)= 741050.0 h(n)=3996900.0
+ g(n)= 741950.0 h(n)=3884400.0
+ g(n)= 742850.0 h(n)=3771900.0
+ g(n)= 743750.0 h(n)=3659400.0
+ g(n)= 744650.0 h(n)=3546900.0
+ g(n)= 745550.0 h(n)=3434400.0
+ g(n)= 746450.0 h(n)=3276900.0
+ g(n)= 747350.0 h(n)=3096900.0
+ g(n)= 748250.0 h(n)=2916900.0
+ g(n)= 749150.0 h(n)=2736900.0
+ g(n)= 750050.0 h(n)=2556900.0
+ g(n)= 750950.0 h(n)=2376900.0
+ g(n)= 751850.0 h(n)=2196900.0
+ g(n)= 752750.0 h(n)=2016900.0
+ g(n)= 754550.0 h(n)=1994400.0
+ g(n)= 755450.0 h(n)=1971900.0
+ g(n)= 756350.0 h(n)=1949400.0
+ g(n)= 757250.0 h(n)=1926900.0
+ g(n)= 758150.0 h(n)=1904400.0
+ g(n)= 759050.0 h(n)=1881900.0
+ g(n)= 759950.0 h(n)=1859400.0
+ g(n)= 760850.0 h(n)=1836900.0
+ g(n)= 761750.0 h(n)=1814400.0
+ g(n)= 762650.0 h(n)=1791900.0
+ g(n)= 763550.0 h(n)=1769400.0
+ g(n)= 764450.0 h(n)=1746900.0
+ g(n)= 765350.0 h(n)=1724400.0
+ g(n)= 766250.0 h(n)=1701900.0
+ g(n)= 767150.0 h(n)=1679400.0
+ g(n)= 768050.0 h(n)=1656900.0
+ g(n)= 768950.0 h(n)=1634400.0
+ g(n)= 769850.0 h(n)=1611900.0
+ g(n)= 770750.0 h(n)=1589400.0
+ g(n)= 771650.0 h(n)=1566900.0
+ g(n)= 772550.0 h(n)=1544400.0
+ g(n)= 773450.0 h(n)=1521900.0
+ g(n)= 774350.0 h(n)=1499400.0
+ g(n)= 775250.0 h(n)=1476900.0
+ g(n)= 776150.0 h(n)=1454400.0
+ g(n)= 777050.0 h(n)=1431900.0
+ g(n)= 777950.0 h(n)=1409400.0
+ g(n)= 778850.0 h(n)=1386900.0
+ g(n)= 779750.0 h(n)=1364400.0
+ g(n)= 780650.0 h(n)=1341900.0
+ g(n)= 781550.0 h(n)=1319400.0
+ g(n)= 782450.0 h(n)=1296900.0
+ g(n)= 783350.0 h(n)=1274400.0
+ g(n)= 784250.0 h(n)=1251900.0
+ g(n)= 785150.0 h(n)=1229400.0
+ g(n)= 786050.0 h(n)=1206900.0
+ g(n)= 786950.0 h(n)=1184400.0
+ g(n)= 787850.0 h(n)=1161900.0
+ g(n)= 788750.0 h(n)=1139400.0
+ g(n)= 789650.0 h(n)=1116900.0
+ g(n)= 790550.0 h(n)=1094400.0
+ g(n)= 791450.0 h(n)=1071900.0
+ g(n)= 792350.0 h(n)=1049400.0
+ g(n)= 793250.0 h(n)=1026900.0
+ g(n)= 794150.0 h(n)=1004400.0
+ g(n)= 795050.0 h(n)=981900.0
+ g(n)= 795950.0 h(n)=959400.0
+ g(n)= 796850.0 h(n)=936900.0
+ g(n)= 797750.0 h(n)=914400.0
+ g(n)= 798650.0 h(n)=891900.0
+ g(n)= 799550.0 h(n)=869400.0
+ g(n)= 800450.0 h(n)=846900.0
+ g(n)= 801350.0 h(n)=824400.0
+ g(n)= 802250.0 h(n)=801900.0
+ g(n)= 803150.0 h(n)=779400.0
+ g(n)= 804050.0 h(n)=756900.0
+ g(n)= 804950.0 h(n)=734400.0
+ g(n)= 805850.0 h(n)=711900.0
+ g(n)= 806750.0 h(n)=689400.0
+ g(n)= 807650.0 h(n)=666900.0
+ g(n)= 808550.0 h(n)=644400.0
+ g(n)= 809450.0 h(n)=621900.0
+ g(n)= 810350.0 h(n)=599400.0
+ g(n)= 811250.0 h(n)=563400.0
+ g(n)= 812150.0 h(n)=527400.0
+ g(n)= 813050.0 h(n)=491400.0
+ g(n)= 813950.0 h(n)=455400.0
+ g(n)= 814850.0 h(n)=419400.0
+ g(n)= 815750.0 h(n)=383400.0
+ g(n)= 817550.0 h(n)=378900.0
+ g(n)= 818450.0 h(n)=374400.0
+ g(n)= 819350.0 h(n)=369900.0
+ g(n)= 820250.0 h(n)=365400.0
+ g(n)= 821150.0 h(n)=360900.0
+ g(n)= 822050.0 h(n)=356400.0
+ g(n)= 822950.0 h(n)=351900.0
+ g(n)= 823850.0 h(n)=347400.0
+ g(n)= 824750.0 h(n)=342900.0
+ g(n)= 825650.0 h(n)=338400.0
+ g(n)= 826550.0 h(n)=333900.0
+ g(n)= 827450.0 h(n)=329400.0
+ g(n)= 828350.0 h(n)=324900.0
+ g(n)= 829250.0 h(n)=320400.0
+ g(n)= 830150.0 h(n)=315900.0
+ g(n)= 831050.0 h(n)=311400.0
+ g(n)= 831950.0 h(n)=306900.0
+ g(n)= 832850.0 h(n)=302400.0
+ g(n)= 833750.0 h(n)=297900.0
+ g(n)= 834650.0 h(n)=293400.0
+ g(n)= 835550.0 h(n)=288900.0
+ g(n)= 836450.0 h(n)=284400.0
+ g(n)= 837350.0 h(n)=279900.0
+ g(n)= 838250.0 h(n)=275400.0
+ g(n)= 839150.0 h(n)=270900.0
+ g(n)= 840050.0 h(n)=266400.0
+ g(n)= 840950.0 h(n)=261900.0
+ g(n)= 841850.0 h(n)=257400.0
+ g(n)= 842750.0 h(n)=252900.0
+ g(n)= 843650.0 h(n)=248400.0
+ g(n)= 844550.0 h(n)=243900.0
+ g(n)= 845450.0 h(n)=239400.0
+ g(n)= 846350.0 h(n)=234900.0
+ g(n)= 847250.0 h(n)=230400.0
+ g(n)= 848150.0 h(n)=225900.0
+ g(n)= 849050.0 h(n)=221400.0
+ g(n)= 849950.0 h(n)=216900.0
+ g(n)= 850850.0 h(n)=212400.0
+ g(n)= 851750.0 h(n)=207900.0
+ g(n)= 852650.0 h(n)=203400.0
+ g(n)= 853550.0 h(n)=198900.0
+ g(n)= 854450.0 h(n)=194400.0
+ g(n)= 855350.0 h(n)=189900.0
+ g(n)= 856250.0 h(n)=185400.0
+ g(n)= 857150.0 h(n)=180900.0
+ g(n)= 858050.0 h(n)=176400.0
+ g(n)= 858950.0 h(n)=171900.0
+ g(n)= 859850.0 h(n)=167400.0
+ g(n)= 860750.0 h(n)=162900.0
+ g(n)= 861650.0 h(n)=158400.0
+ g(n)= 862550.0 h(n)=153900.0
+ g(n)= 863450.0 h(n)=149400.0
+ g(n)= 864350.0 h(n)=144900.0
+ g(n)= 865250.0 h(n)=140400.0
+ g(n)= 866150.0 h(n)=135900.0
+ g(n)= 867050.0 h(n)=131400.0
+ g(n)= 867950.0 h(n)=126900.0
+ g(n)= 868850.0 h(n)=122400.0
+ g(n)= 869750.0 h(n)=117900.0
+ g(n)= 870650.0 h(n)=113400.0
+ g(n)= 871550.0 h(n)=108900.0
+ g(n)= 872450.0 h(n)=104400.0
+ g(n)= 873350.0 h(n)=99900.0
+ g(n)= 874250.0 h(n)=95400.0
+ g(n)= 875150.0 h(n)=90900.0
+ g(n)= 876050.0 h(n)=83700.0
+ g(n)= 876950.0 h(n)=76500.0
+ g(n)= 877850.0 h(n)=69300.0
+ g(n)= 878750.0 h(n)=62100.0
+ g(n)= 880550.0 h(n)=61200.0
+ g(n)= 881450.0 h(n)=60300.0
+ g(n)= 882350.0 h(n)=59400.0
+ g(n)= 883250.0 h(n)=58500.0
+ g(n)= 884150.0 h(n)=57600.0
+ g(n)= 885050.0 h(n)=56700.0
+ g(n)= 885950.0 h(n)=55800.0
+ g(n)= 886850.0 h(n)=54900.0
+ g(n)= 887750.0 h(n)=54000.0
+ g(n)= 888650.0 h(n)=53100.0
+ g(n)= 889550.0 h(n)=52200.0
+ g(n)= 890450.0 h(n)=51300.0
+ g(n)= 891350.0 h(n)=50400.0
+ g(n)= 892250.0 h(n)=49500.0
+ g(n)= 893150.0 h(n)=48600.0
+ g(n)= 894050.0 h(n)=47700.0
+ g(n)= 894950.0 h(n)=46800.0
+ g(n)= 895850.0 h(n)=45900.0
+ g(n)= 896750.0 h(n)=45000.0
+ g(n)= 897650.0 h(n)=44100.0
+ g(n)= 898550.0 h(n)=43200.0
+ g(n)= 899450.0 h(n)=42300.0
+ g(n)= 900350.0 h(n)=41400.0
+ g(n)= 901250.0 h(n)=40500.0
+ g(n)= 902150.0 h(n)=39600.0
+ g(n)= 903050.0 h(n)=38700.0
+ g(n)= 903950.0 h(n)=37800.0
+ g(n)= 904850.0 h(n)=36900.0
+ g(n)= 905750.0 h(n)=36000.0
+ g(n)= 906650.0 h(n)=35100.0
+ g(n)= 907550.0 h(n)=34200.0
+ g(n)= 908450.0 h(n)=33300.0
+ g(n)= 909350.0 h(n)=32400.0
+ g(n)= 910250.0 h(n)=31500.0
+ g(n)= 911150.0 h(n)=30600.0
+ g(n)= 912050.0 h(n)=29700.0
+ g(n)= 912950.0 h(n)=28800.0
+ g(n)= 913850.0 h(n)=27900.0
+ g(n)= 914750.0 h(n)=27000.0
+ g(n)= 915650.0 h(n)=26100.0
+ g(n)= 916550.0 h(n)=25200.0
+ g(n)= 917450.0 h(n)=24300.0
+ g(n)= 918350.0 h(n)=23400.0
+ g(n)= 919250.0 h(n)=22500.0
+ g(n)= 920150.0 h(n)=21600.0
+ g(n)= 921050.0 h(n)=20700.0
+ g(n)= 921950.0 h(n)=19800.0
+ g(n)= 922850.0 h(n)=18900.0
+ g(n)= 923750.0 h(n)=18000.0
+ g(n)= 924650.0 h(n)=17100.0
+ g(n)= 925550.0 h(n)=16200.0
+ g(n)= 926450.0 h(n)=15300.0
+ g(n)= 927350.0 h(n)=14400.0
+ g(n)= 928250.0 h(n)=13500.0
+ g(n)= 929150.0 h(n)=12600.0
+ g(n)= 930050.0 h(n)=11700.0
+ g(n)= 930950.0 h(n)=10800.0
+ g(n)= 931850.0 h(n)=9900.0
+ g(n)= 932750.0 h(n)=9000.0
+ g(n)= 933650.0 h(n)=8100.0
+ g(n)= 934550.0 h(n)=7200.0
+ g(n)= 935450.0 h(n)=6300.0
+ g(n)= 936350.0 h(n)=5400.0
+ g(n)= 937250.0 h(n)=4500.0
+ g(n)= 938150.0 h(n)=3600.0
+ g(n)= 939050.0 h(n)=2700.0
+ g(n)= 939950.0 h(n)=1800.0
+ g(n)= 940850.0 h(n)=900.0
+ g(n)= 941750.0 h(n)=0.0
+Problem Solved
+
+Found Plan:
+0.0: (marcar_pv_agotado h0)
+1.0: (despachar_hidro h0)
+2.0: (despachar_hidro h0)
+3.0: (despachar_hidro h0)
+4.0: (despachar_hidro h0)
+5.0: (despachar_hidro h0)
+6.0: (despachar_hidro h0)
+7.0: (despachar_hidro h0)
+8.0: (despachar_hidro h0)
+9.0: (despachar_hidro h0)
+10.0: (despachar_hidro h0)
+11.0: (despachar_hidro h0)
+12.0: (despachar_hidro h0)
+13.0: (despachar_hidro h0)
+14.0: (despachar_hidro h0)
+15.0: (despachar_hidro h0)
+16.0: (despachar_hidro h0)
+17.0: (despachar_hidro h0)
+18.0: (despachar_hidro h0)
+19.0: (despachar_hidro h0)
+20.0: (despachar_hidro h0)
+21.0: (despachar_hidro h0)
+22.0: (despachar_hidro h0)
+23.0: (despachar_hidro h0)
+24.0: (despachar_hidro h0)
+25.0: (despachar_hidro h0)
+26.0: (despachar_hidro h0)
+27.0: (despachar_hidro h0)
+28.0: (despachar_hidro h0)
+29.0: (despachar_hidro h0)
+30.0: (despachar_hidro h0)
+31.0: (despachar_hidro h0)
+32.0: (despachar_hidro h0)
+33.0: (despachar_hidro h0)
+34.0: (despachar_hidro h0)
+35.0: (despachar_hidro h0)
+36.0: (despachar_hidro h0)
+37.0: (despachar_hidro h0)
+38.0: (despachar_hidro h0)
+39.0: (despachar_hidro h0)
+40.0: (despachar_hidro h0)
+41.0: (despachar_hidro h0)
+42.0: (despachar_hidro h0)
+43.0: (despachar_hidro h0)
+44.0: (despachar_hidro h0)
+45.0: (despachar_hidro h0)
+46.0: (marcar_hidro_agotado h0)
+47.0: (despachar_termica h0)
+48.0: (despachar_termica h0)
+49.0: (despachar_termica h0)
+50.0: (despachar_termica h0)
+51.0: (despachar_termica h0)
+52.0: (despachar_termica h0)
+53.0: (despachar_termica h0)
+54.0: (despachar_termica h0)
+55.0: (despachar_termica h0)
+56.0: (despachar_termica h0)
+57.0: (despachar_termica h0)
+58.0: (despachar_termica h0)
+59.0: (despachar_termica h0)
+60.0: (despachar_termica h0)
+61.0: (despachar_termica h0)
+62.0: (despachar_termica h0)
+63.0: (despachar_termica h0)
+64.0: (despachar_termica h0)
+65.0: (despachar_termica h0)
+66.0: (despachar_termica h0)
+67.0: (despachar_termica h0)
+68.0: (despachar_termica h0)
+69.0: (despachar_termica h0)
+70.0: (despachar_termica h0)
+71.0: (despachar_termica h0)
+72.0: (avanzar_hora h0 h1)
+73.0: (marcar_pv_agotado h1)
+74.0: (despachar_hidro h1)
+75.0: (despachar_hidro h1)
+76.0: (despachar_hidro h1)
+77.0: (despachar_hidro h1)
+78.0: (despachar_hidro h1)
+79.0: (despachar_hidro h1)
+80.0: (despachar_hidro h1)
+81.0: (despachar_hidro h1)
+82.0: (despachar_hidro h1)
+83.0: (despachar_hidro h1)
+84.0: (despachar_hidro h1)
+85.0: (despachar_hidro h1)
+86.0: (despachar_hidro h1)
+87.0: (despachar_hidro h1)
+88.0: (despachar_hidro h1)
+89.0: (despachar_hidro h1)
+90.0: (despachar_hidro h1)
+91.0: (despachar_hidro h1)
+92.0: (despachar_hidro h1)
+93.0: (despachar_hidro h1)
+94.0: (despachar_hidro h1)
+95.0: (despachar_hidro h1)
+96.0: (despachar_hidro h1)
+97.0: (despachar_hidro h1)
+98.0: (despachar_hidro h1)
+99.0: (despachar_hidro h1)
+100.0: (despachar_hidro h1)
+101.0: (despachar_hidro h1)
+102.0: (despachar_hidro h1)
+103.0: (despachar_hidro h1)
+104.0: (despachar_hidro h1)
+105.0: (despachar_hidro h1)
+106.0: (despachar_hidro h1)
+107.0: (despachar_hidro h1)
+108.0: (despachar_hidro h1)
+109.0: (despachar_hidro h1)
+110.0: (despachar_hidro h1)
+111.0: (despachar_hidro h1)
+112.0: (despachar_hidro h1)
+113.0: (despachar_hidro h1)
+114.0: (despachar_hidro h1)
+115.0: (despachar_hidro h1)
+116.0: (despachar_hidro h1)
+117.0: (despachar_hidro h1)
+118.0: (despachar_hidro h1)
+119.0: (marcar_hidro_agotado h1)
+120.0: (despachar_termica h1)
+121.0: (despachar_termica h1)
+122.0: (despachar_termica h1)
+123.0: (despachar_termica h1)
+124.0: (despachar_termica h1)
+125.0: (despachar_termica h1)
+126.0: (despachar_termica h1)
+127.0: (despachar_termica h1)
+128.0: (despachar_termica h1)
+129.0: (despachar_termica h1)
+130.0: (despachar_termica h1)
+131.0: (despachar_termica h1)
+132.0: (despachar_termica h1)
+133.0: (despachar_termica h1)
+134.0: (despachar_termica h1)
+135.0: (despachar_termica h1)
+136.0: (despachar_termica h1)
+137.0: (despachar_termica h1)
+138.0: (despachar_termica h1)
+139.0: (despachar_termica h1)
+140.0: (despachar_termica h1)
+141.0: (despachar_termica h1)
+142.0: (despachar_termica h1)
+143.0: (avanzar_hora h1 h2)
+144.0: (marcar_pv_agotado h2)
+145.0: (despachar_hidro h2)
+146.0: (despachar_hidro h2)
+147.0: (despachar_hidro h2)
+148.0: (despachar_hidro h2)
+149.0: (despachar_hidro h2)
+150.0: (despachar_hidro h2)
+151.0: (despachar_hidro h2)
+152.0: (despachar_hidro h2)
+153.0: (despachar_hidro h2)
+154.0: (despachar_hidro h2)
+155.0: (despachar_hidro h2)
+156.0: (despachar_hidro h2)
+157.0: (despachar_hidro h2)
+158.0: (despachar_hidro h2)
+159.0: (despachar_hidro h2)
+160.0: (despachar_hidro h2)
+161.0: (despachar_hidro h2)
+162.0: (despachar_hidro h2)
+163.0: (despachar_hidro h2)
+164.0: (despachar_hidro h2)
+165.0: (despachar_hidro h2)
+166.0: (despachar_hidro h2)
+167.0: (despachar_hidro h2)
+168.0: (despachar_hidro h2)
+169.0: (despachar_hidro h2)
+170.0: (despachar_hidro h2)
+171.0: (despachar_hidro h2)
+172.0: (despachar_hidro h2)
+173.0: (despachar_hidro h2)
+174.0: (despachar_hidro h2)
+175.0: (despachar_hidro h2)
+176.0: (despachar_hidro h2)
+177.0: (despachar_hidro h2)
+178.0: (despachar_hidro h2)
+179.0: (despachar_hidro h2)
+180.0: (despachar_hidro h2)
+181.0: (despachar_hidro h2)
+182.0: (despachar_hidro h2)
+183.0: (despachar_hidro h2)
+184.0: (despachar_hidro h2)
+185.0: (despachar_hidro h2)
+186.0: (despachar_hidro h2)
+187.0: (despachar_hidro h2)
+188.0: (despachar_hidro h2)
+189.0: (despachar_hidro h2)
+190.0: (marcar_hidro_agotado h2)
+191.0: (despachar_termica h2)
+192.0: (despachar_termica h2)
+193.0: (despachar_termica h2)
+194.0: (despachar_termica h2)
+195.0: (despachar_termica h2)
+196.0: (despachar_termica h2)
+197.0: (despachar_termica h2)
+198.0: (despachar_termica h2)
+199.0: (despachar_termica h2)
+200.0: (despachar_termica h2)
+201.0: (despachar_termica h2)
+202.0: (despachar_termica h2)
+203.0: (despachar_termica h2)
+204.0: (despachar_termica h2)
+205.0: (despachar_termica h2)
+206.0: (despachar_termica h2)
+207.0: (despachar_termica h2)
+208.0: (despachar_termica h2)
+209.0: (despachar_termica h2)
+210.0: (despachar_termica h2)
+211.0: (despachar_termica h2)
+212.0: (avanzar_hora h2 h3)
+213.0: (marcar_pv_agotado h3)
+214.0: (despachar_hidro h3)
+215.0: (despachar_hidro h3)
+216.0: (despachar_hidro h3)
+217.0: (despachar_hidro h3)
+218.0: (despachar_hidro h3)
+219.0: (despachar_hidro h3)
+220.0: (despachar_hidro h3)
+221.0: (despachar_hidro h3)
+222.0: (despachar_hidro h3)
+223.0: (despachar_hidro h3)
+224.0: (despachar_hidro h3)
+225.0: (despachar_hidro h3)
+226.0: (despachar_hidro h3)
+227.0: (despachar_hidro h3)
+228.0: (despachar_hidro h3)
+229.0: (despachar_hidro h3)
+230.0: (despachar_hidro h3)
+231.0: (despachar_hidro h3)
+232.0: (despachar_hidro h3)
+233.0: (despachar_hidro h3)
+234.0: (despachar_hidro h3)
+235.0: (despachar_hidro h3)
+236.0: (despachar_hidro h3)
+237.0: (despachar_hidro h3)
+238.0: (despachar_hidro h3)
+239.0: (despachar_hidro h3)
+240.0: (despachar_hidro h3)
+241.0: (despachar_hidro h3)
+242.0: (despachar_hidro h3)
+243.0: (despachar_hidro h3)
+244.0: (despachar_hidro h3)
+245.0: (despachar_hidro h3)
+246.0: (despachar_hidro h3)
+247.0: (despachar_hidro h3)
+248.0: (despachar_hidro h3)
+249.0: (despachar_hidro h3)
+250.0: (despachar_hidro h3)
+251.0: (despachar_hidro h3)
+252.0: (despachar_hidro h3)
+253.0: (despachar_hidro h3)
+254.0: (despachar_hidro h3)
+255.0: (despachar_hidro h3)
+256.0: (despachar_hidro h3)
+257.0: (despachar_hidro h3)
+258.0: (despachar_hidro h3)
+259.0: (marcar_hidro_agotado h3)
+260.0: (despachar_termica h3)
+261.0: (despachar_termica h3)
+262.0: (despachar_termica h3)
+263.0: (despachar_termica h3)
+264.0: (despachar_termica h3)
+265.0: (despachar_termica h3)
+266.0: (despachar_termica h3)
+267.0: (despachar_termica h3)
+268.0: (despachar_termica h3)
+269.0: (despachar_termica h3)
+270.0: (despachar_termica h3)
+271.0: (despachar_termica h3)
+272.0: (despachar_termica h3)
+273.0: (despachar_termica h3)
+274.0: (despachar_termica h3)
+275.0: (despachar_termica h3)
+276.0: (despachar_termica h3)
+277.0: (despachar_termica h3)
+278.0: (despachar_termica h3)
+279.0: (despachar_termica h3)
+280.0: (avanzar_hora h3 h4)
+281.0: (marcar_pv_agotado h4)
+282.0: (despachar_hidro h4)
+283.0: (despachar_hidro h4)
+284.0: (despachar_hidro h4)
+285.0: (despachar_hidro h4)
+286.0: (despachar_hidro h4)
+287.0: (despachar_hidro h4)
+288.0: (despachar_hidro h4)
+289.0: (despachar_hidro h4)
+290.0: (despachar_hidro h4)
+291.0: (despachar_hidro h4)
+292.0: (despachar_hidro h4)
+293.0: (despachar_hidro h4)
+294.0: (despachar_hidro h4)
+295.0: (despachar_hidro h4)
+296.0: (despachar_hidro h4)
+297.0: (despachar_hidro h4)
+298.0: (despachar_hidro h4)
+299.0: (despachar_hidro h4)
+300.0: (despachar_hidro h4)
+301.0: (despachar_hidro h4)
+302.0: (despachar_hidro h4)
+303.0: (despachar_hidro h4)
+304.0: (despachar_hidro h4)
+305.0: (despachar_hidro h4)
+306.0: (despachar_hidro h4)
+307.0: (despachar_hidro h4)
+308.0: (despachar_hidro h4)
+309.0: (despachar_hidro h4)
+310.0: (despachar_hidro h4)
+311.0: (despachar_hidro h4)
+312.0: (despachar_hidro h4)
+313.0: (despachar_hidro h4)
+314.0: (despachar_hidro h4)
+315.0: (despachar_hidro h4)
+316.0: (despachar_hidro h4)
+317.0: (despachar_hidro h4)
+318.0: (despachar_hidro h4)
+319.0: (despachar_hidro h4)
+320.0: (despachar_hidro h4)
+321.0: (despachar_hidro h4)
+322.0: (despachar_hidro h4)
+323.0: (despachar_hidro h4)
+324.0: (despachar_hidro h4)
+325.0: (despachar_hidro h4)
+326.0: (despachar_hidro h4)
+327.0: (marcar_hidro_agotado h4)
+328.0: (despachar_termica h4)
+329.0: (despachar_termica h4)
+330.0: (despachar_termica h4)
+331.0: (despachar_termica h4)
+332.0: (despachar_termica h4)
+333.0: (despachar_termica h4)
+334.0: (despachar_termica h4)
+335.0: (despachar_termica h4)
+336.0: (despachar_termica h4)
+337.0: (despachar_termica h4)
+338.0: (despachar_termica h4)
+339.0: (despachar_termica h4)
+340.0: (despachar_termica h4)
+341.0: (despachar_termica h4)
+342.0: (despachar_termica h4)
+343.0: (despachar_termica h4)
+344.0: (despachar_termica h4)
+345.0: (despachar_termica h4)
+346.0: (despachar_termica h4)
+347.0: (avanzar_hora h4 h5)
+348.0: (marcar_pv_agotado h5)
+349.0: (despachar_hidro h5)
+350.0: (despachar_hidro h5)
+351.0: (despachar_hidro h5)
+352.0: (despachar_hidro h5)
+353.0: (despachar_hidro h5)
+354.0: (despachar_hidro h5)
+355.0: (despachar_hidro h5)
+356.0: (despachar_hidro h5)
+357.0: (despachar_hidro h5)
+358.0: (despachar_hidro h5)
+359.0: (despachar_hidro h5)
+360.0: (despachar_hidro h5)
+361.0: (despachar_hidro h5)
+362.0: (despachar_hidro h5)
+363.0: (despachar_hidro h5)
+364.0: (despachar_hidro h5)
+365.0: (despachar_hidro h5)
+366.0: (despachar_hidro h5)
+367.0: (despachar_hidro h5)
+368.0: (despachar_hidro h5)
+369.0: (despachar_hidro h5)
+370.0: (despachar_hidro h5)
+371.0: (despachar_hidro h5)
+372.0: (despachar_hidro h5)
+373.0: (despachar_hidro h5)
+374.0: (despachar_hidro h5)
+375.0: (despachar_hidro h5)
+376.0: (despachar_hidro h5)
+377.0: (despachar_hidro h5)
+378.0: (despachar_hidro h5)
+379.0: (despachar_hidro h5)
+380.0: (despachar_hidro h5)
+381.0: (despachar_hidro h5)
+382.0: (despachar_hidro h5)
+383.0: (despachar_hidro h5)
+384.0: (despachar_hidro h5)
+385.0: (despachar_hidro h5)
+386.0: (despachar_hidro h5)
+387.0: (despachar_hidro h5)
+388.0: (despachar_hidro h5)
+389.0: (despachar_hidro h5)
+390.0: (despachar_hidro h5)
+391.0: (despachar_hidro h5)
+392.0: (despachar_hidro h5)
+393.0: (despachar_hidro h5)
+394.0: (marcar_hidro_agotado h5)
+395.0: (despachar_termica h5)
+396.0: (despachar_termica h5)
+397.0: (despachar_termica h5)
+398.0: (despachar_termica h5)
+399.0: (despachar_termica h5)
+400.0: (despachar_termica h5)
+401.0: (despachar_termica h5)
+402.0: (despachar_termica h5)
+403.0: (despachar_termica h5)
+404.0: (despachar_termica h5)
+405.0: (despachar_termica h5)
+406.0: (despachar_termica h5)
+407.0: (despachar_termica h5)
+408.0: (despachar_termica h5)
+409.0: (despachar_termica h5)
+410.0: (despachar_termica h5)
+411.0: (despachar_termica h5)
+412.0: (despachar_termica h5)
+413.0: (despachar_termica h5)
+414.0: (despachar_termica h5)
+415.0: (avanzar_hora h5 h6)
+416.0: (despachar_pv h6)
+417.0: (despachar_pv h6)
+418.0: (marcar_pv_agotado h6)
+419.0: (despachar_hidro h6)
+420.0: (despachar_hidro h6)
+421.0: (despachar_hidro h6)
+422.0: (despachar_hidro h6)
+423.0: (despachar_hidro h6)
+424.0: (despachar_hidro h6)
+425.0: (despachar_hidro h6)
+426.0: (despachar_hidro h6)
+427.0: (despachar_hidro h6)
+428.0: (despachar_hidro h6)
+429.0: (despachar_hidro h6)
+430.0: (despachar_hidro h6)
+431.0: (despachar_hidro h6)
+432.0: (despachar_hidro h6)
+433.0: (despachar_hidro h6)
+434.0: (despachar_hidro h6)
+435.0: (despachar_hidro h6)
+436.0: (despachar_hidro h6)
+437.0: (despachar_hidro h6)
+438.0: (despachar_hidro h6)
+439.0: (despachar_hidro h6)
+440.0: (despachar_hidro h6)
+441.0: (despachar_hidro h6)
+442.0: (despachar_hidro h6)
+443.0: (despachar_hidro h6)
+444.0: (despachar_hidro h6)
+445.0: (despachar_hidro h6)
+446.0: (despachar_hidro h6)
+447.0: (despachar_hidro h6)
+448.0: (despachar_hidro h6)
+449.0: (despachar_hidro h6)
+450.0: (despachar_hidro h6)
+451.0: (despachar_hidro h6)
+452.0: (despachar_hidro h6)
+453.0: (despachar_hidro h6)
+454.0: (despachar_hidro h6)
+455.0: (despachar_hidro h6)
+456.0: (despachar_hidro h6)
+457.0: (despachar_hidro h6)
+458.0: (despachar_hidro h6)
+459.0: (despachar_hidro h6)
+460.0: (despachar_hidro h6)
+461.0: (despachar_hidro h6)
+462.0: (despachar_hidro h6)
+463.0: (despachar_hidro h6)
+464.0: (marcar_hidro_agotado h6)
+465.0: (despachar_termica h6)
+466.0: (despachar_termica h6)
+467.0: (despachar_termica h6)
+468.0: (despachar_termica h6)
+469.0: (despachar_termica h6)
+470.0: (despachar_termica h6)
+471.0: (despachar_termica h6)
+472.0: (despachar_termica h6)
+473.0: (despachar_termica h6)
+474.0: (despachar_termica h6)
+475.0: (despachar_termica h6)
+476.0: (despachar_termica h6)
+477.0: (despachar_termica h6)
+478.0: (despachar_termica h6)
+479.0: (despachar_termica h6)
+480.0: (despachar_termica h6)
+481.0: (despachar_termica h6)
+482.0: (despachar_termica h6)
+483.0: (despachar_termica h6)
+484.0: (despachar_termica h6)
+485.0: (despachar_termica h6)
+486.0: (avanzar_hora h6 h7)
+487.0: (despachar_pv h7)
+488.0: (despachar_pv h7)
+489.0: (despachar_pv h7)
+490.0: (despachar_pv h7)
+491.0: (despachar_pv h7)
+492.0: (despachar_pv h7)
+493.0: (marcar_pv_agotado h7)
+494.0: (despachar_hidro h7)
+495.0: (despachar_hidro h7)
+496.0: (despachar_hidro h7)
+497.0: (despachar_hidro h7)
+498.0: (despachar_hidro h7)
+499.0: (despachar_hidro h7)
+500.0: (despachar_hidro h7)
+501.0: (despachar_hidro h7)
+502.0: (despachar_hidro h7)
+503.0: (despachar_hidro h7)
+504.0: (despachar_hidro h7)
+505.0: (despachar_hidro h7)
+506.0: (despachar_hidro h7)
+507.0: (despachar_hidro h7)
+508.0: (despachar_hidro h7)
+509.0: (despachar_hidro h7)
+510.0: (despachar_hidro h7)
+511.0: (despachar_hidro h7)
+512.0: (despachar_hidro h7)
+513.0: (despachar_hidro h7)
+514.0: (despachar_hidro h7)
+515.0: (despachar_hidro h7)
+516.0: (despachar_hidro h7)
+517.0: (despachar_hidro h7)
+518.0: (despachar_hidro h7)
+519.0: (despachar_hidro h7)
+520.0: (despachar_hidro h7)
+521.0: (despachar_hidro h7)
+522.0: (despachar_hidro h7)
+523.0: (despachar_hidro h7)
+524.0: (despachar_hidro h7)
+525.0: (despachar_hidro h7)
+526.0: (despachar_hidro h7)
+527.0: (despachar_hidro h7)
+528.0: (despachar_hidro h7)
+529.0: (despachar_hidro h7)
+530.0: (despachar_hidro h7)
+531.0: (despachar_hidro h7)
+532.0: (despachar_hidro h7)
+533.0: (despachar_hidro h7)
+534.0: (despachar_hidro h7)
+535.0: (despachar_hidro h7)
+536.0: (despachar_hidro h7)
+537.0: (despachar_hidro h7)
+538.0: (despachar_hidro h7)
+539.0: (marcar_hidro_agotado h7)
+540.0: (despachar_termica h7)
+541.0: (despachar_termica h7)
+542.0: (despachar_termica h7)
+543.0: (despachar_termica h7)
+544.0: (despachar_termica h7)
+545.0: (despachar_termica h7)
+546.0: (despachar_termica h7)
+547.0: (despachar_termica h7)
+548.0: (despachar_termica h7)
+549.0: (despachar_termica h7)
+550.0: (despachar_termica h7)
+551.0: (despachar_termica h7)
+552.0: (despachar_termica h7)
+553.0: (despachar_termica h7)
+554.0: (despachar_termica h7)
+555.0: (despachar_termica h7)
+556.0: (despachar_termica h7)
+557.0: (despachar_termica h7)
+558.0: (despachar_termica h7)
+559.0: (despachar_termica h7)
+560.0: (despachar_termica h7)
+561.0: (avanzar_hora h7 h8)
+562.0: (despachar_pv h8)
+563.0: (despachar_pv h8)
+564.0: (despachar_pv h8)
+565.0: (despachar_pv h8)
+566.0: (despachar_pv h8)
+567.0: (despachar_pv h8)
+568.0: (despachar_pv h8)
+569.0: (despachar_pv h8)
+570.0: (despachar_pv h8)
+571.0: (despachar_pv h8)
+572.0: (despachar_pv h8)
+573.0: (despachar_pv h8)
+574.0: (despachar_pv h8)
+575.0: (despachar_pv h8)
+576.0: (marcar_pv_agotado h8)
+577.0: (despachar_hidro h8)
+578.0: (despachar_hidro h8)
+579.0: (despachar_hidro h8)
+580.0: (despachar_hidro h8)
+581.0: (despachar_hidro h8)
+582.0: (despachar_hidro h8)
+583.0: (despachar_hidro h8)
+584.0: (despachar_hidro h8)
+585.0: (despachar_hidro h8)
+586.0: (despachar_hidro h8)
+587.0: (despachar_hidro h8)
+588.0: (despachar_hidro h8)
+589.0: (despachar_hidro h8)
+590.0: (despachar_hidro h8)
+591.0: (despachar_hidro h8)
+592.0: (despachar_hidro h8)
+593.0: (despachar_hidro h8)
+594.0: (despachar_hidro h8)
+595.0: (despachar_hidro h8)
+596.0: (despachar_hidro h8)
+597.0: (despachar_hidro h8)
+598.0: (despachar_hidro h8)
+599.0: (despachar_hidro h8)
+600.0: (despachar_hidro h8)
+601.0: (despachar_hidro h8)
+602.0: (despachar_hidro h8)
+603.0: (despachar_hidro h8)
+604.0: (despachar_hidro h8)
+605.0: (despachar_hidro h8)
+606.0: (despachar_hidro h8)
+607.0: (despachar_hidro h8)
+608.0: (despachar_hidro h8)
+609.0: (despachar_hidro h8)
+610.0: (despachar_hidro h8)
+611.0: (despachar_hidro h8)
+612.0: (despachar_hidro h8)
+613.0: (despachar_hidro h8)
+614.0: (despachar_hidro h8)
+615.0: (despachar_hidro h8)
+616.0: (despachar_hidro h8)
+617.0: (despachar_hidro h8)
+618.0: (despachar_hidro h8)
+619.0: (despachar_hidro h8)
+620.0: (despachar_hidro h8)
+621.0: (despachar_hidro h8)
+622.0: (marcar_hidro_agotado h8)
+623.0: (despachar_termica h8)
+624.0: (despachar_termica h8)
+625.0: (despachar_termica h8)
+626.0: (despachar_termica h8)
+627.0: (despachar_termica h8)
+628.0: (despachar_termica h8)
+629.0: (despachar_termica h8)
+630.0: (despachar_termica h8)
+631.0: (despachar_termica h8)
+632.0: (despachar_termica h8)
+633.0: (despachar_termica h8)
+634.0: (despachar_termica h8)
+635.0: (despachar_termica h8)
+636.0: (despachar_termica h8)
+637.0: (despachar_termica h8)
+638.0: (despachar_termica h8)
+639.0: (despachar_termica h8)
+640.0: (despachar_termica h8)
+641.0: (despachar_termica h8)
+642.0: (avanzar_hora h8 h9)
+643.0: (despachar_pv h9)
+644.0: (despachar_pv h9)
+645.0: (despachar_pv h9)
+646.0: (despachar_pv h9)
+647.0: (despachar_pv h9)
+648.0: (despachar_pv h9)
+649.0: (despachar_pv h9)
+650.0: (despachar_pv h9)
+651.0: (despachar_pv h9)
+652.0: (despachar_pv h9)
+653.0: (despachar_pv h9)
+654.0: (despachar_pv h9)
+655.0: (despachar_pv h9)
+656.0: (despachar_pv h9)
+657.0: (despachar_pv h9)
+658.0: (despachar_pv h9)
+659.0: (despachar_pv h9)
+660.0: (despachar_pv h9)
+661.0: (despachar_pv h9)
+662.0: (despachar_pv h9)
+663.0: (despachar_pv h9)
+664.0: (despachar_pv h9)
+665.0: (marcar_pv_agotado h9)
+666.0: (despachar_hidro h9)
+667.0: (despachar_hidro h9)
+668.0: (despachar_hidro h9)
+669.0: (despachar_hidro h9)
+670.0: (despachar_hidro h9)
+671.0: (despachar_hidro h9)
+672.0: (despachar_hidro h9)
+673.0: (despachar_hidro h9)
+674.0: (despachar_hidro h9)
+675.0: (despachar_hidro h9)
+676.0: (despachar_hidro h9)
+677.0: (despachar_hidro h9)
+678.0: (despachar_hidro h9)
+679.0: (despachar_hidro h9)
+680.0: (despachar_hidro h9)
+681.0: (despachar_hidro h9)
+682.0: (despachar_hidro h9)
+683.0: (despachar_hidro h9)
+684.0: (despachar_hidro h9)
+685.0: (despachar_hidro h9)
+686.0: (despachar_hidro h9)
+687.0: (despachar_hidro h9)
+688.0: (despachar_hidro h9)
+689.0: (despachar_hidro h9)
+690.0: (despachar_hidro h9)
+691.0: (despachar_hidro h9)
+692.0: (despachar_hidro h9)
+693.0: (despachar_hidro h9)
+694.0: (despachar_hidro h9)
+695.0: (despachar_hidro h9)
+696.0: (despachar_hidro h9)
+697.0: (despachar_hidro h9)
+698.0: (despachar_hidro h9)
+699.0: (despachar_hidro h9)
+700.0: (despachar_hidro h9)
+701.0: (despachar_hidro h9)
+702.0: (despachar_hidro h9)
+703.0: (despachar_hidro h9)
+704.0: (despachar_hidro h9)
+705.0: (despachar_hidro h9)
+706.0: (despachar_hidro h9)
+707.0: (despachar_hidro h9)
+708.0: (despachar_hidro h9)
+709.0: (despachar_hidro h9)
+710.0: (despachar_hidro h9)
+711.0: (marcar_hidro_agotado h9)
+712.0: (despachar_termica h9)
+713.0: (despachar_termica h9)
+714.0: (despachar_termica h9)
+715.0: (despachar_termica h9)
+716.0: (despachar_termica h9)
+717.0: (despachar_termica h9)
+718.0: (despachar_termica h9)
+719.0: (despachar_termica h9)
+720.0: (despachar_termica h9)
+721.0: (despachar_termica h9)
+722.0: (despachar_termica h9)
+723.0: (despachar_termica h9)
+724.0: (despachar_termica h9)
+725.0: (despachar_termica h9)
+726.0: (despachar_termica h9)
+727.0: (avanzar_hora h9 h10)
+728.0: (despachar_pv h10)
+729.0: (despachar_pv h10)
+730.0: (despachar_pv h10)
+731.0: (despachar_pv h10)
+732.0: (despachar_pv h10)
+733.0: (despachar_pv h10)
+734.0: (despachar_pv h10)
+735.0: (despachar_pv h10)
+736.0: (despachar_pv h10)
+737.0: (despachar_pv h10)
+738.0: (despachar_pv h10)
+739.0: (despachar_pv h10)
+740.0: (despachar_pv h10)
+741.0: (despachar_pv h10)
+742.0: (despachar_pv h10)
+743.0: (despachar_pv h10)
+744.0: (despachar_pv h10)
+745.0: (despachar_pv h10)
+746.0: (despachar_pv h10)
+747.0: (despachar_pv h10)
+748.0: (despachar_pv h10)
+749.0: (despachar_pv h10)
+750.0: (despachar_pv h10)
+751.0: (despachar_pv h10)
+752.0: (despachar_pv h10)
+753.0: (despachar_pv h10)
+754.0: (despachar_pv h10)
+755.0: (marcar_pv_agotado h10)
+756.0: (despachar_hidro h10)
+757.0: (despachar_hidro h10)
+758.0: (despachar_hidro h10)
+759.0: (despachar_hidro h10)
+760.0: (despachar_hidro h10)
+761.0: (despachar_hidro h10)
+762.0: (despachar_hidro h10)
+763.0: (despachar_hidro h10)
+764.0: (despachar_hidro h10)
+765.0: (despachar_hidro h10)
+766.0: (despachar_hidro h10)
+767.0: (despachar_hidro h10)
+768.0: (despachar_hidro h10)
+769.0: (despachar_hidro h10)
+770.0: (despachar_hidro h10)
+771.0: (despachar_hidro h10)
+772.0: (despachar_hidro h10)
+773.0: (despachar_hidro h10)
+774.0: (despachar_hidro h10)
+775.0: (despachar_hidro h10)
+776.0: (despachar_hidro h10)
+777.0: (despachar_hidro h10)
+778.0: (despachar_hidro h10)
+779.0: (despachar_hidro h10)
+780.0: (despachar_hidro h10)
+781.0: (despachar_hidro h10)
+782.0: (despachar_hidro h10)
+783.0: (despachar_hidro h10)
+784.0: (despachar_hidro h10)
+785.0: (despachar_hidro h10)
+786.0: (despachar_hidro h10)
+787.0: (despachar_hidro h10)
+788.0: (despachar_hidro h10)
+789.0: (despachar_hidro h10)
+790.0: (despachar_hidro h10)
+791.0: (despachar_hidro h10)
+792.0: (despachar_hidro h10)
+793.0: (despachar_hidro h10)
+794.0: (despachar_hidro h10)
+795.0: (despachar_hidro h10)
+796.0: (despachar_hidro h10)
+797.0: (despachar_hidro h10)
+798.0: (despachar_hidro h10)
+799.0: (despachar_hidro h10)
+800.0: (despachar_hidro h10)
+801.0: (marcar_hidro_agotado h10)
+802.0: (despachar_termica h10)
+803.0: (despachar_termica h10)
+804.0: (despachar_termica h10)
+805.0: (despachar_termica h10)
+806.0: (despachar_termica h10)
+807.0: (despachar_termica h10)
+808.0: (despachar_termica h10)
+809.0: (despachar_termica h10)
+810.0: (despachar_termica h10)
+811.0: (despachar_termica h10)
+812.0: (despachar_termica h10)
+813.0: (despachar_termica h10)
+814.0: (avanzar_hora h10 h11)
+815.0: (despachar_pv h11)
+816.0: (despachar_pv h11)
+817.0: (despachar_pv h11)
+818.0: (despachar_pv h11)
+819.0: (despachar_pv h11)
+820.0: (despachar_pv h11)
+821.0: (despachar_pv h11)
+822.0: (despachar_pv h11)
+823.0: (despachar_pv h11)
+824.0: (despachar_pv h11)
+825.0: (despachar_pv h11)
+826.0: (despachar_pv h11)
+827.0: (despachar_pv h11)
+828.0: (despachar_pv h11)
+829.0: (despachar_pv h11)
+830.0: (despachar_pv h11)
+831.0: (despachar_pv h11)
+832.0: (despachar_pv h11)
+833.0: (despachar_pv h11)
+834.0: (despachar_pv h11)
+835.0: (despachar_pv h11)
+836.0: (despachar_pv h11)
+837.0: (despachar_pv h11)
+838.0: (despachar_pv h11)
+839.0: (despachar_pv h11)
+840.0: (despachar_pv h11)
+841.0: (despachar_pv h11)
+842.0: (despachar_pv h11)
+843.0: (despachar_pv h11)
+844.0: (marcar_pv_agotado h11)
+845.0: (despachar_hidro h11)
+846.0: (despachar_hidro h11)
+847.0: (despachar_hidro h11)
+848.0: (despachar_hidro h11)
+849.0: (despachar_hidro h11)
+850.0: (marcar_hidro_agotado h11)
+851.0: (despachar_termica h11)
+852.0: (despachar_termica h11)
+853.0: (despachar_termica h11)
+854.0: (despachar_termica h11)
+855.0: (despachar_termica h11)
+856.0: (despachar_termica h11)
+857.0: (despachar_termica h11)
+858.0: (despachar_termica h11)
+859.0: (despachar_termica h11)
+860.0: (despachar_termica h11)
+861.0: (despachar_termica h11)
+862.0: (despachar_termica h11)
+863.0: (despachar_termica h11)
+864.0: (despachar_termica h11)
+865.0: (despachar_termica h11)
+866.0: (despachar_termica h11)
+867.0: (despachar_termica h11)
+868.0: (despachar_termica h11)
+869.0: (despachar_termica h11)
+870.0: (despachar_termica h11)
+871.0: (despachar_termica h11)
+872.0: (despachar_termica h11)
+873.0: (despachar_termica h11)
+874.0: (despachar_termica h11)
+875.0: (despachar_termica h11)
+876.0: (despachar_termica h11)
+877.0: (despachar_termica h11)
+878.0: (despachar_termica h11)
+879.0: (despachar_termica h11)
+880.0: (despachar_termica h11)
+881.0: (despachar_termica h11)
+882.0: (despachar_termica h11)
+883.0: (despachar_termica h11)
+884.0: (despachar_termica h11)
+885.0: (despachar_termica h11)
+886.0: (despachar_termica h11)
+887.0: (despachar_termica h11)
+888.0: (despachar_termica h11)
+889.0: (despachar_termica h11)
+890.0: (despachar_termica h11)
+891.0: (despachar_termica h11)
+892.0: (despachar_termica h11)
+893.0: (despachar_termica h11)
+894.0: (despachar_termica h11)
+895.0: (despachar_termica h11)
+896.0: (despachar_termica h11)
+897.0: (despachar_termica h11)
+898.0: (despachar_termica h11)
+899.0: (despachar_termica h11)
+900.0: (despachar_termica h11)
+901.0: (despachar_termica h11)
+902.0: (avanzar_hora h11 h12)
+903.0: (despachar_pv h12)
+904.0: (despachar_pv h12)
+905.0: (despachar_pv h12)
+906.0: (despachar_pv h12)
+907.0: (despachar_pv h12)
+908.0: (despachar_pv h12)
+909.0: (despachar_pv h12)
+910.0: (despachar_pv h12)
+911.0: (despachar_pv h12)
+912.0: (despachar_pv h12)
+913.0: (despachar_pv h12)
+914.0: (despachar_pv h12)
+915.0: (despachar_pv h12)
+916.0: (despachar_pv h12)
+917.0: (despachar_pv h12)
+918.0: (despachar_pv h12)
+919.0: (despachar_pv h12)
+920.0: (despachar_pv h12)
+921.0: (despachar_pv h12)
+922.0: (despachar_pv h12)
+923.0: (despachar_pv h12)
+924.0: (despachar_pv h12)
+925.0: (despachar_pv h12)
+926.0: (despachar_pv h12)
+927.0: (despachar_pv h12)
+928.0: (despachar_pv h12)
+929.0: (despachar_pv h12)
+930.0: (despachar_pv h12)
+931.0: (despachar_pv h12)
+932.0: (despachar_pv h12)
+933.0: (marcar_pv_agotado h12)
+934.0: (marcar_hidro_agotado h12)
+935.0: (despachar_termica h12)
+936.0: (despachar_termica h12)
+937.0: (despachar_termica h12)
+938.0: (despachar_termica h12)
+939.0: (despachar_termica h12)
+940.0: (despachar_termica h12)
+941.0: (despachar_termica h12)
+942.0: (despachar_termica h12)
+943.0: (despachar_termica h12)
+944.0: (despachar_termica h12)
+945.0: (despachar_termica h12)
+946.0: (despachar_termica h12)
+947.0: (despachar_termica h12)
+948.0: (despachar_termica h12)
+949.0: (despachar_termica h12)
+950.0: (despachar_termica h12)
+951.0: (despachar_termica h12)
+952.0: (despachar_termica h12)
+953.0: (despachar_termica h12)
+954.0: (despachar_termica h12)
+955.0: (despachar_termica h12)
+956.0: (despachar_termica h12)
+957.0: (despachar_termica h12)
+958.0: (despachar_termica h12)
+959.0: (despachar_termica h12)
+960.0: (despachar_termica h12)
+961.0: (despachar_termica h12)
+962.0: (despachar_termica h12)
+963.0: (despachar_termica h12)
+964.0: (despachar_termica h12)
+965.0: (despachar_termica h12)
+966.0: (despachar_termica h12)
+967.0: (despachar_termica h12)
+968.0: (despachar_termica h12)
+969.0: (despachar_termica h12)
+970.0: (despachar_termica h12)
+971.0: (despachar_termica h12)
+972.0: (despachar_termica h12)
+973.0: (despachar_termica h12)
+974.0: (despachar_termica h12)
+975.0: (despachar_termica h12)
+976.0: (despachar_termica h12)
+977.0: (despachar_termica h12)
+978.0: (despachar_termica h12)
+979.0: (despachar_termica h12)
+980.0: (despachar_termica h12)
+981.0: (despachar_termica h12)
+982.0: (despachar_termica h12)
+983.0: (despachar_termica h12)
+984.0: (despachar_termica h12)
+985.0: (despachar_termica h12)
+986.0: (despachar_termica h12)
+987.0: (despachar_termica h12)
+988.0: (avanzar_hora h12 h13)
+989.0: (despachar_pv h13)
+990.0: (despachar_pv h13)
+991.0: (despachar_pv h13)
+992.0: (despachar_pv h13)
+993.0: (despachar_pv h13)
+994.0: (despachar_pv h13)
+995.0: (despachar_pv h13)
+996.0: (despachar_pv h13)
+997.0: (despachar_pv h13)
+998.0: (despachar_pv h13)
+999.0: (despachar_pv h13)
+1000.0: (despachar_pv h13)
+1001.0: (despachar_pv h13)
+1002.0: (despachar_pv h13)
+1003.0: (despachar_pv h13)
+1004.0: (despachar_pv h13)
+1005.0: (despachar_pv h13)
+1006.0: (despachar_pv h13)
+1007.0: (despachar_pv h13)
+1008.0: (despachar_pv h13)
+1009.0: (despachar_pv h13)
+1010.0: (despachar_pv h13)
+1011.0: (despachar_pv h13)
+1012.0: (despachar_pv h13)
+1013.0: (despachar_pv h13)
+1014.0: (despachar_pv h13)
+1015.0: (despachar_pv h13)
+1016.0: (despachar_pv h13)
+1017.0: (despachar_pv h13)
+1018.0: (marcar_pv_agotado h13)
+1019.0: (marcar_hidro_agotado h13)
+1020.0: (despachar_termica h13)
+1021.0: (despachar_termica h13)
+1022.0: (despachar_termica h13)
+1023.0: (despachar_termica h13)
+1024.0: (despachar_termica h13)
+1025.0: (despachar_termica h13)
+1026.0: (despachar_termica h13)
+1027.0: (despachar_termica h13)
+1028.0: (despachar_termica h13)
+1029.0: (despachar_termica h13)
+1030.0: (despachar_termica h13)
+1031.0: (despachar_termica h13)
+1032.0: (despachar_termica h13)
+1033.0: (despachar_termica h13)
+1034.0: (despachar_termica h13)
+1035.0: (despachar_termica h13)
+1036.0: (despachar_termica h13)
+1037.0: (despachar_termica h13)
+1038.0: (despachar_termica h13)
+1039.0: (despachar_termica h13)
+1040.0: (despachar_termica h13)
+1041.0: (despachar_termica h13)
+1042.0: (despachar_termica h13)
+1043.0: (despachar_termica h13)
+1044.0: (despachar_termica h13)
+1045.0: (despachar_termica h13)
+1046.0: (despachar_termica h13)
+1047.0: (despachar_termica h13)
+1048.0: (despachar_termica h13)
+1049.0: (despachar_termica h13)
+1050.0: (despachar_termica h13)
+1051.0: (despachar_termica h13)
+1052.0: (despachar_termica h13)
+1053.0: (despachar_termica h13)
+1054.0: (despachar_termica h13)
+1055.0: (despachar_termica h13)
+1056.0: (despachar_termica h13)
+1057.0: (despachar_termica h13)
+1058.0: (despachar_termica h13)
+1059.0: (despachar_termica h13)
+1060.0: (despachar_termica h13)
+1061.0: (despachar_termica h13)
+1062.0: (despachar_termica h13)
+1063.0: (despachar_termica h13)
+1064.0: (despachar_termica h13)
+1065.0: (despachar_termica h13)
+1066.0: (despachar_termica h13)
+1067.0: (despachar_termica h13)
+1068.0: (despachar_termica h13)
+1069.0: (despachar_termica h13)
+1070.0: (despachar_termica h13)
+1071.0: (despachar_termica h13)
+1072.0: (despachar_termica h13)
+1073.0: (avanzar_hora h13 h14)
+1074.0: (despachar_pv h14)
+1075.0: (despachar_pv h14)
+1076.0: (despachar_pv h14)
+1077.0: (despachar_pv h14)
+1078.0: (despachar_pv h14)
+1079.0: (despachar_pv h14)
+1080.0: (despachar_pv h14)
+1081.0: (despachar_pv h14)
+1082.0: (despachar_pv h14)
+1083.0: (despachar_pv h14)
+1084.0: (despachar_pv h14)
+1085.0: (despachar_pv h14)
+1086.0: (despachar_pv h14)
+1087.0: (despachar_pv h14)
+1088.0: (despachar_pv h14)
+1089.0: (despachar_pv h14)
+1090.0: (despachar_pv h14)
+1091.0: (despachar_pv h14)
+1092.0: (despachar_pv h14)
+1093.0: (despachar_pv h14)
+1094.0: (despachar_pv h14)
+1095.0: (despachar_pv h14)
+1096.0: (despachar_pv h14)
+1097.0: (despachar_pv h14)
+1098.0: (despachar_pv h14)
+1099.0: (despachar_pv h14)
+1100.0: (marcar_pv_agotado h14)
+1101.0: (marcar_hidro_agotado h14)
+1102.0: (despachar_termica h14)
+1103.0: (despachar_termica h14)
+1104.0: (despachar_termica h14)
+1105.0: (despachar_termica h14)
+1106.0: (despachar_termica h14)
+1107.0: (despachar_termica h14)
+1108.0: (despachar_termica h14)
+1109.0: (despachar_termica h14)
+1110.0: (despachar_termica h14)
+1111.0: (despachar_termica h14)
+1112.0: (despachar_termica h14)
+1113.0: (despachar_termica h14)
+1114.0: (despachar_termica h14)
+1115.0: (despachar_termica h14)
+1116.0: (despachar_termica h14)
+1117.0: (despachar_termica h14)
+1118.0: (despachar_termica h14)
+1119.0: (despachar_termica h14)
+1120.0: (despachar_termica h14)
+1121.0: (despachar_termica h14)
+1122.0: (despachar_termica h14)
+1123.0: (despachar_termica h14)
+1124.0: (despachar_termica h14)
+1125.0: (despachar_termica h14)
+1126.0: (despachar_termica h14)
+1127.0: (despachar_termica h14)
+1128.0: (despachar_termica h14)
+1129.0: (despachar_termica h14)
+1130.0: (despachar_termica h14)
+1131.0: (despachar_termica h14)
+1132.0: (despachar_termica h14)
+1133.0: (despachar_termica h14)
+1134.0: (despachar_termica h14)
+1135.0: (despachar_termica h14)
+1136.0: (despachar_termica h14)
+1137.0: (despachar_termica h14)
+1138.0: (despachar_termica h14)
+1139.0: (despachar_termica h14)
+1140.0: (despachar_termica h14)
+1141.0: (despachar_termica h14)
+1142.0: (despachar_termica h14)
+1143.0: (despachar_termica h14)
+1144.0: (despachar_termica h14)
+1145.0: (despachar_termica h14)
+1146.0: (despachar_termica h14)
+1147.0: (despachar_termica h14)
+1148.0: (despachar_termica h14)
+1149.0: (despachar_termica h14)
+1150.0: (despachar_termica h14)
+1151.0: (despachar_termica h14)
+1152.0: (despachar_termica h14)
+1153.0: (despachar_termica h14)
+1154.0: (despachar_termica h14)
+1155.0: (despachar_termica h14)
+1156.0: (despachar_termica h14)
+1157.0: (avanzar_hora h14 h15)
+1158.0: (despachar_pv h15)
+1159.0: (despachar_pv h15)
+1160.0: (despachar_pv h15)
+1161.0: (despachar_pv h15)
+1162.0: (despachar_pv h15)
+1163.0: (despachar_pv h15)
+1164.0: (despachar_pv h15)
+1165.0: (despachar_pv h15)
+1166.0: (despachar_pv h15)
+1167.0: (despachar_pv h15)
+1168.0: (despachar_pv h15)
+1169.0: (despachar_pv h15)
+1170.0: (despachar_pv h15)
+1171.0: (despachar_pv h15)
+1172.0: (despachar_pv h15)
+1173.0: (despachar_pv h15)
+1174.0: (despachar_pv h15)
+1175.0: (despachar_pv h15)
+1176.0: (despachar_pv h15)
+1177.0: (despachar_pv h15)
+1178.0: (despachar_pv h15)
+1179.0: (marcar_pv_agotado h15)
+1180.0: (marcar_hidro_agotado h15)
+1181.0: (despachar_termica h15)
+1182.0: (despachar_termica h15)
+1183.0: (despachar_termica h15)
+1184.0: (despachar_termica h15)
+1185.0: (despachar_termica h15)
+1186.0: (despachar_termica h15)
+1187.0: (despachar_termica h15)
+1188.0: (despachar_termica h15)
+1189.0: (despachar_termica h15)
+1190.0: (despachar_termica h15)
+1191.0: (despachar_termica h15)
+1192.0: (despachar_termica h15)
+1193.0: (despachar_termica h15)
+1194.0: (despachar_termica h15)
+1195.0: (despachar_termica h15)
+1196.0: (despachar_termica h15)
+1197.0: (despachar_termica h15)
+1198.0: (despachar_termica h15)
+1199.0: (despachar_termica h15)
+1200.0: (despachar_termica h15)
+1201.0: (despachar_termica h15)
+1202.0: (despachar_termica h15)
+1203.0: (despachar_termica h15)
+1204.0: (despachar_termica h15)
+1205.0: (despachar_termica h15)
+1206.0: (despachar_termica h15)
+1207.0: (despachar_termica h15)
+1208.0: (despachar_termica h15)
+1209.0: (despachar_termica h15)
+1210.0: (despachar_termica h15)
+1211.0: (despachar_termica h15)
+1212.0: (despachar_termica h15)
+1213.0: (despachar_termica h15)
+1214.0: (despachar_termica h15)
+1215.0: (despachar_termica h15)
+1216.0: (despachar_termica h15)
+1217.0: (despachar_termica h15)
+1218.0: (despachar_termica h15)
+1219.0: (despachar_termica h15)
+1220.0: (despachar_termica h15)
+1221.0: (despachar_termica h15)
+1222.0: (despachar_termica h15)
+1223.0: (despachar_termica h15)
+1224.0: (despachar_termica h15)
+1225.0: (despachar_termica h15)
+1226.0: (despachar_termica h15)
+1227.0: (despachar_termica h15)
+1228.0: (despachar_termica h15)
+1229.0: (despachar_termica h15)
+1230.0: (despachar_termica h15)
+1231.0: (despachar_termica h15)
+1232.0: (despachar_termica h15)
+1233.0: (despachar_termica h15)
+1234.0: (despachar_termica h15)
+1235.0: (despachar_termica h15)
+1236.0: (despachar_termica h15)
+1237.0: (despachar_termica h15)
+1238.0: (despachar_termica h15)
+1239.0: (despachar_termica h15)
+1240.0: (despachar_termica h15)
+1241.0: (despachar_termica h15)
+1242.0: (avanzar_hora h15 h16)
+1243.0: (despachar_pv h16)
+1244.0: (despachar_pv h16)
+1245.0: (despachar_pv h16)
+1246.0: (despachar_pv h16)
+1247.0: (despachar_pv h16)
+1248.0: (despachar_pv h16)
+1249.0: (despachar_pv h16)
+1250.0: (despachar_pv h16)
+1251.0: (despachar_pv h16)
+1252.0: (despachar_pv h16)
+1253.0: (despachar_pv h16)
+1254.0: (despachar_pv h16)
+1255.0: (despachar_pv h16)
+1256.0: (despachar_pv h16)
+1257.0: (despachar_pv h16)
+1258.0: (marcar_pv_agotado h16)
+1259.0: (marcar_hidro_agotado h16)
+1260.0: (despachar_termica h16)
+1261.0: (despachar_termica h16)
+1262.0: (despachar_termica h16)
+1263.0: (despachar_termica h16)
+1264.0: (despachar_termica h16)
+1265.0: (despachar_termica h16)
+1266.0: (despachar_termica h16)
+1267.0: (despachar_termica h16)
+1268.0: (despachar_termica h16)
+1269.0: (despachar_termica h16)
+1270.0: (despachar_termica h16)
+1271.0: (despachar_termica h16)
+1272.0: (despachar_termica h16)
+1273.0: (despachar_termica h16)
+1274.0: (despachar_termica h16)
+1275.0: (despachar_termica h16)
+1276.0: (despachar_termica h16)
+1277.0: (despachar_termica h16)
+1278.0: (despachar_termica h16)
+1279.0: (despachar_termica h16)
+1280.0: (despachar_termica h16)
+1281.0: (despachar_termica h16)
+1282.0: (despachar_termica h16)
+1283.0: (despachar_termica h16)
+1284.0: (despachar_termica h16)
+1285.0: (despachar_termica h16)
+1286.0: (despachar_termica h16)
+1287.0: (despachar_termica h16)
+1288.0: (despachar_termica h16)
+1289.0: (despachar_termica h16)
+1290.0: (despachar_termica h16)
+1291.0: (despachar_termica h16)
+1292.0: (despachar_termica h16)
+1293.0: (despachar_termica h16)
+1294.0: (despachar_termica h16)
+1295.0: (despachar_termica h16)
+1296.0: (despachar_termica h16)
+1297.0: (despachar_termica h16)
+1298.0: (despachar_termica h16)
+1299.0: (despachar_termica h16)
+1300.0: (despachar_termica h16)
+1301.0: (despachar_termica h16)
+1302.0: (despachar_termica h16)
+1303.0: (despachar_termica h16)
+1304.0: (despachar_termica h16)
+1305.0: (despachar_termica h16)
+1306.0: (despachar_termica h16)
+1307.0: (despachar_termica h16)
+1308.0: (despachar_termica h16)
+1309.0: (despachar_termica h16)
+1310.0: (despachar_termica h16)
+1311.0: (despachar_termica h16)
+1312.0: (despachar_termica h16)
+1313.0: (despachar_termica h16)
+1314.0: (despachar_termica h16)
+1315.0: (despachar_termica h16)
+1316.0: (despachar_termica h16)
+1317.0: (despachar_termica h16)
+1318.0: (despachar_termica h16)
+1319.0: (despachar_termica h16)
+1320.0: (despachar_termica h16)
+1321.0: (despachar_termica h16)
+1322.0: (despachar_termica h16)
+1323.0: (despachar_termica h16)
+1324.0: (despachar_termica h16)
+1325.0: (despachar_termica h16)
+1326.0: (despachar_termica h16)
+1327.0: (despachar_termica h16)
+1328.0: (despachar_termica h16)
+1329.0: (despachar_termica h16)
+1330.0: (avanzar_hora h16 h17)
+1331.0: (despachar_pv h17)
+1332.0: (despachar_pv h17)
+1333.0: (despachar_pv h17)
+1334.0: (despachar_pv h17)
+1335.0: (despachar_pv h17)
+1336.0: (despachar_pv h17)
+1337.0: (despachar_pv h17)
+1338.0: (despachar_pv h17)
+1339.0: (marcar_pv_agotado h17)
+1340.0: (marcar_hidro_agotado h17)
+1341.0: (despachar_termica h17)
+1342.0: (despachar_termica h17)
+1343.0: (despachar_termica h17)
+1344.0: (despachar_termica h17)
+1345.0: (despachar_termica h17)
+1346.0: (despachar_termica h17)
+1347.0: (despachar_termica h17)
+1348.0: (despachar_termica h17)
+1349.0: (despachar_termica h17)
+1350.0: (despachar_termica h17)
+1351.0: (despachar_termica h17)
+1352.0: (despachar_termica h17)
+1353.0: (despachar_termica h17)
+1354.0: (despachar_termica h17)
+1355.0: (despachar_termica h17)
+1356.0: (despachar_termica h17)
+1357.0: (despachar_termica h17)
+1358.0: (despachar_termica h17)
+1359.0: (despachar_termica h17)
+1360.0: (despachar_termica h17)
+1361.0: (despachar_termica h17)
+1362.0: (despachar_termica h17)
+1363.0: (despachar_termica h17)
+1364.0: (despachar_termica h17)
+1365.0: (despachar_termica h17)
+1366.0: (despachar_termica h17)
+1367.0: (despachar_termica h17)
+1368.0: (despachar_termica h17)
+1369.0: (despachar_termica h17)
+1370.0: (despachar_termica h17)
+1371.0: (despachar_termica h17)
+1372.0: (despachar_termica h17)
+1373.0: (despachar_termica h17)
+1374.0: (despachar_termica h17)
+1375.0: (despachar_termica h17)
+1376.0: (despachar_termica h17)
+1377.0: (despachar_termica h17)
+1378.0: (despachar_termica h17)
+1379.0: (despachar_termica h17)
+1380.0: (despachar_termica h17)
+1381.0: (despachar_termica h17)
+1382.0: (despachar_termica h17)
+1383.0: (despachar_termica h17)
+1384.0: (despachar_termica h17)
+1385.0: (despachar_termica h17)
+1386.0: (despachar_termica h17)
+1387.0: (despachar_termica h17)
+1388.0: (despachar_termica h17)
+1389.0: (despachar_termica h17)
+1390.0: (despachar_termica h17)
+1391.0: (despachar_termica h17)
+1392.0: (despachar_termica h17)
+1393.0: (despachar_termica h17)
+1394.0: (despachar_termica h17)
+1395.0: (despachar_termica h17)
+1396.0: (despachar_termica h17)
+1397.0: (despachar_termica h17)
+1398.0: (despachar_termica h17)
+1399.0: (despachar_termica h17)
+1400.0: (despachar_termica h17)
+1401.0: (despachar_termica h17)
+1402.0: (despachar_termica h17)
+1403.0: (despachar_termica h17)
+1404.0: (despachar_termica h17)
+1405.0: (despachar_termica h17)
+1406.0: (despachar_termica h17)
+1407.0: (despachar_termica h17)
+1408.0: (despachar_termica h17)
+1409.0: (despachar_termica h17)
+1410.0: (despachar_termica h17)
+1411.0: (avanzar_hora h17 h18)
+1412.0: (despachar_pv h18)
+1413.0: (despachar_pv h18)
+1414.0: (marcar_pv_agotado h18)
+1415.0: (marcar_hidro_agotado h18)
+1416.0: (despachar_termica h18)
+1417.0: (despachar_termica h18)
+1418.0: (despachar_termica h18)
+1419.0: (despachar_termica h18)
+1420.0: (despachar_termica h18)
+1421.0: (despachar_termica h18)
+1422.0: (despachar_termica h18)
+1423.0: (despachar_termica h18)
+1424.0: (despachar_termica h18)
+1425.0: (despachar_termica h18)
+1426.0: (despachar_termica h18)
+1427.0: (despachar_termica h18)
+1428.0: (despachar_termica h18)
+1429.0: (despachar_termica h18)
+1430.0: (despachar_termica h18)
+1431.0: (despachar_termica h18)
+1432.0: (despachar_termica h18)
+1433.0: (despachar_termica h18)
+1434.0: (despachar_termica h18)
+1435.0: (despachar_termica h18)
+1436.0: (despachar_termica h18)
+1437.0: (despachar_termica h18)
+1438.0: (despachar_termica h18)
+1439.0: (despachar_termica h18)
+1440.0: (despachar_termica h18)
+1441.0: (despachar_termica h18)
+1442.0: (despachar_termica h18)
+1443.0: (despachar_termica h18)
+1444.0: (despachar_termica h18)
+1445.0: (despachar_termica h18)
+1446.0: (despachar_termica h18)
+1447.0: (despachar_termica h18)
+1448.0: (despachar_termica h18)
+1449.0: (despachar_termica h18)
+1450.0: (despachar_termica h18)
+1451.0: (despachar_termica h18)
+1452.0: (despachar_termica h18)
+1453.0: (despachar_termica h18)
+1454.0: (despachar_termica h18)
+1455.0: (despachar_termica h18)
+1456.0: (despachar_termica h18)
+1457.0: (despachar_termica h18)
+1458.0: (despachar_termica h18)
+1459.0: (despachar_termica h18)
+1460.0: (despachar_termica h18)
+1461.0: (despachar_termica h18)
+1462.0: (despachar_termica h18)
+1463.0: (despachar_termica h18)
+1464.0: (despachar_termica h18)
+1465.0: (despachar_termica h18)
+1466.0: (despachar_termica h18)
+1467.0: (despachar_termica h18)
+1468.0: (despachar_termica h18)
+1469.0: (despachar_termica h18)
+1470.0: (despachar_termica h18)
+1471.0: (despachar_termica h18)
+1472.0: (despachar_termica h18)
+1473.0: (despachar_termica h18)
+1474.0: (despachar_termica h18)
+1475.0: (despachar_termica h18)
+1476.0: (despachar_termica h18)
+1477.0: (despachar_termica h18)
+1478.0: (despachar_termica h18)
+1479.0: (despachar_termica h18)
+1480.0: (despachar_termica h18)
+1481.0: (despachar_termica h18)
+1482.0: (despachar_termica h18)
+1483.0: (despachar_termica h18)
+1484.0: (despachar_termica h18)
+1485.0: (despachar_termica h18)
+1486.0: (avanzar_hora h18 h19)
+1487.0: (marcar_pv_agotado h19)
+1488.0: (marcar_hidro_agotado h19)
+1489.0: (despachar_termica h19)
+1490.0: (despachar_termica h19)
+1491.0: (despachar_termica h19)
+1492.0: (despachar_termica h19)
+1493.0: (despachar_termica h19)
+1494.0: (despachar_termica h19)
+1495.0: (despachar_termica h19)
+1496.0: (despachar_termica h19)
+1497.0: (despachar_termica h19)
+1498.0: (despachar_termica h19)
+1499.0: (despachar_termica h19)
+1500.0: (despachar_termica h19)
+1501.0: (despachar_termica h19)
+1502.0: (despachar_termica h19)
+1503.0: (despachar_termica h19)
+1504.0: (despachar_termica h19)
+1505.0: (despachar_termica h19)
+1506.0: (despachar_termica h19)
+1507.0: (despachar_termica h19)
+1508.0: (despachar_termica h19)
+1509.0: (despachar_termica h19)
+1510.0: (despachar_termica h19)
+1511.0: (despachar_termica h19)
+1512.0: (despachar_termica h19)
+1513.0: (despachar_termica h19)
+1514.0: (despachar_termica h19)
+1515.0: (despachar_termica h19)
+1516.0: (despachar_termica h19)
+1517.0: (despachar_termica h19)
+1518.0: (despachar_termica h19)
+1519.0: (despachar_termica h19)
+1520.0: (despachar_termica h19)
+1521.0: (despachar_termica h19)
+1522.0: (despachar_termica h19)
+1523.0: (despachar_termica h19)
+1524.0: (despachar_termica h19)
+1525.0: (despachar_termica h19)
+1526.0: (despachar_termica h19)
+1527.0: (despachar_termica h19)
+1528.0: (despachar_termica h19)
+1529.0: (despachar_termica h19)
+1530.0: (despachar_termica h19)
+1531.0: (despachar_termica h19)
+1532.0: (despachar_termica h19)
+1533.0: (despachar_termica h19)
+1534.0: (despachar_termica h19)
+1535.0: (despachar_termica h19)
+1536.0: (despachar_termica h19)
+1537.0: (despachar_termica h19)
+1538.0: (despachar_termica h19)
+1539.0: (despachar_termica h19)
+1540.0: (despachar_termica h19)
+1541.0: (despachar_termica h19)
+1542.0: (despachar_termica h19)
+1543.0: (despachar_termica h19)
+1544.0: (despachar_termica h19)
+1545.0: (despachar_termica h19)
+1546.0: (despachar_termica h19)
+1547.0: (despachar_termica h19)
+1548.0: (despachar_termica h19)
+1549.0: (despachar_termica h19)
+1550.0: (despachar_termica h19)
+1551.0: (despachar_termica h19)
+1552.0: (despachar_termica h19)
+1553.0: (despachar_termica h19)
+1554.0: (despachar_termica h19)
+1555.0: (despachar_termica h19)
+1556.0: (despachar_termica h19)
+1557.0: (despachar_termica h19)
+1558.0: (despachar_termica h19)
+1559.0: (avanzar_hora h19 h20)
+1560.0: (marcar_pv_agotado h20)
+1561.0: (marcar_hidro_agotado h20)
+1562.0: (despachar_termica h20)
+1563.0: (despachar_termica h20)
+1564.0: (despachar_termica h20)
+1565.0: (despachar_termica h20)
+1566.0: (despachar_termica h20)
+1567.0: (despachar_termica h20)
+1568.0: (despachar_termica h20)
+1569.0: (despachar_termica h20)
+1570.0: (despachar_termica h20)
+1571.0: (despachar_termica h20)
+1572.0: (despachar_termica h20)
+1573.0: (despachar_termica h20)
+1574.0: (despachar_termica h20)
+1575.0: (despachar_termica h20)
+1576.0: (despachar_termica h20)
+1577.0: (despachar_termica h20)
+1578.0: (despachar_termica h20)
+1579.0: (despachar_termica h20)
+1580.0: (despachar_termica h20)
+1581.0: (despachar_termica h20)
+1582.0: (despachar_termica h20)
+1583.0: (despachar_termica h20)
+1584.0: (despachar_termica h20)
+1585.0: (despachar_termica h20)
+1586.0: (despachar_termica h20)
+1587.0: (despachar_termica h20)
+1588.0: (despachar_termica h20)
+1589.0: (despachar_termica h20)
+1590.0: (despachar_termica h20)
+1591.0: (despachar_termica h20)
+1592.0: (despachar_termica h20)
+1593.0: (despachar_termica h20)
+1594.0: (despachar_termica h20)
+1595.0: (despachar_termica h20)
+1596.0: (despachar_termica h20)
+1597.0: (despachar_termica h20)
+1598.0: (despachar_termica h20)
+1599.0: (despachar_termica h20)
+1600.0: (despachar_termica h20)
+1601.0: (despachar_termica h20)
+1602.0: (despachar_termica h20)
+1603.0: (despachar_termica h20)
+1604.0: (despachar_termica h20)
+1605.0: (despachar_termica h20)
+1606.0: (despachar_termica h20)
+1607.0: (despachar_termica h20)
+1608.0: (despachar_termica h20)
+1609.0: (despachar_termica h20)
+1610.0: (despachar_termica h20)
+1611.0: (despachar_termica h20)
+1612.0: (despachar_termica h20)
+1613.0: (despachar_termica h20)
+1614.0: (despachar_termica h20)
+1615.0: (despachar_termica h20)
+1616.0: (despachar_termica h20)
+1617.0: (despachar_termica h20)
+1618.0: (despachar_termica h20)
+1619.0: (despachar_termica h20)
+1620.0: (despachar_termica h20)
+1621.0: (despachar_termica h20)
+1622.0: (despachar_termica h20)
+1623.0: (despachar_termica h20)
+1624.0: (despachar_termica h20)
+1625.0: (despachar_termica h20)
+1626.0: (despachar_termica h20)
+1627.0: (despachar_termica h20)
+1628.0: (despachar_termica h20)
+1629.0: (despachar_termica h20)
+1630.0: (despachar_termica h20)
+1631.0: (despachar_termica h20)
+1632.0: (avanzar_hora h20 h21)
+1633.0: (marcar_pv_agotado h21)
+1634.0: (marcar_hidro_agotado h21)
+1635.0: (despachar_termica h21)
+1636.0: (despachar_termica h21)
+1637.0: (despachar_termica h21)
+1638.0: (despachar_termica h21)
+1639.0: (despachar_termica h21)
+1640.0: (despachar_termica h21)
+1641.0: (despachar_termica h21)
+1642.0: (despachar_termica h21)
+1643.0: (despachar_termica h21)
+1644.0: (despachar_termica h21)
+1645.0: (despachar_termica h21)
+1646.0: (despachar_termica h21)
+1647.0: (despachar_termica h21)
+1648.0: (despachar_termica h21)
+1649.0: (despachar_termica h21)
+1650.0: (despachar_termica h21)
+1651.0: (despachar_termica h21)
+1652.0: (despachar_termica h21)
+1653.0: (despachar_termica h21)
+1654.0: (despachar_termica h21)
+1655.0: (despachar_termica h21)
+1656.0: (despachar_termica h21)
+1657.0: (despachar_termica h21)
+1658.0: (despachar_termica h21)
+1659.0: (despachar_termica h21)
+1660.0: (despachar_termica h21)
+1661.0: (despachar_termica h21)
+1662.0: (despachar_termica h21)
+1663.0: (despachar_termica h21)
+1664.0: (despachar_termica h21)
+1665.0: (despachar_termica h21)
+1666.0: (despachar_termica h21)
+1667.0: (despachar_termica h21)
+1668.0: (despachar_termica h21)
+1669.0: (despachar_termica h21)
+1670.0: (despachar_termica h21)
+1671.0: (despachar_termica h21)
+1672.0: (despachar_termica h21)
+1673.0: (despachar_termica h21)
+1674.0: (despachar_termica h21)
+1675.0: (despachar_termica h21)
+1676.0: (despachar_termica h21)
+1677.0: (despachar_termica h21)
+1678.0: (despachar_termica h21)
+1679.0: (despachar_termica h21)
+1680.0: (despachar_termica h21)
+1681.0: (despachar_termica h21)
+1682.0: (despachar_termica h21)
+1683.0: (despachar_termica h21)
+1684.0: (despachar_termica h21)
+1685.0: (despachar_termica h21)
+1686.0: (despachar_termica h21)
+1687.0: (despachar_termica h21)
+1688.0: (despachar_termica h21)
+1689.0: (despachar_termica h21)
+1690.0: (despachar_termica h21)
+1691.0: (despachar_termica h21)
+1692.0: (despachar_termica h21)
+1693.0: (despachar_termica h21)
+1694.0: (despachar_termica h21)
+1695.0: (despachar_termica h21)
+1696.0: (despachar_termica h21)
+1697.0: (despachar_termica h21)
+1698.0: (despachar_termica h21)
+1699.0: (despachar_termica h21)
+1700.0: (despachar_termica h21)
+1701.0: (despachar_termica h21)
+1702.0: (despachar_termica h21)
+1703.0: (despachar_termica h21)
+1704.0: (despachar_termica h21)
+1705.0: (avanzar_hora h21 h22)
+1706.0: (marcar_pv_agotado h22)
+1707.0: (marcar_hidro_agotado h22)
+1708.0: (despachar_termica h22)
+1709.0: (despachar_termica h22)
+1710.0: (despachar_termica h22)
+1711.0: (despachar_termica h22)
+1712.0: (despachar_termica h22)
+1713.0: (despachar_termica h22)
+1714.0: (despachar_termica h22)
+1715.0: (despachar_termica h22)
+1716.0: (despachar_termica h22)
+1717.0: (despachar_termica h22)
+1718.0: (despachar_termica h22)
+1719.0: (despachar_termica h22)
+1720.0: (despachar_termica h22)
+1721.0: (despachar_termica h22)
+1722.0: (despachar_termica h22)
+1723.0: (despachar_termica h22)
+1724.0: (despachar_termica h22)
+1725.0: (despachar_termica h22)
+1726.0: (despachar_termica h22)
+1727.0: (despachar_termica h22)
+1728.0: (despachar_termica h22)
+1729.0: (despachar_termica h22)
+1730.0: (despachar_termica h22)
+1731.0: (despachar_termica h22)
+1732.0: (despachar_termica h22)
+1733.0: (despachar_termica h22)
+1734.0: (despachar_termica h22)
+1735.0: (despachar_termica h22)
+1736.0: (despachar_termica h22)
+1737.0: (despachar_termica h22)
+1738.0: (despachar_termica h22)
+1739.0: (despachar_termica h22)
+1740.0: (despachar_termica h22)
+1741.0: (despachar_termica h22)
+1742.0: (despachar_termica h22)
+1743.0: (despachar_termica h22)
+1744.0: (despachar_termica h22)
+1745.0: (despachar_termica h22)
+1746.0: (despachar_termica h22)
+1747.0: (despachar_termica h22)
+1748.0: (despachar_termica h22)
+1749.0: (despachar_termica h22)
+1750.0: (despachar_termica h22)
+1751.0: (despachar_termica h22)
+1752.0: (despachar_termica h22)
+1753.0: (despachar_termica h22)
+1754.0: (despachar_termica h22)
+1755.0: (despachar_termica h22)
+1756.0: (despachar_termica h22)
+1757.0: (despachar_termica h22)
+1758.0: (despachar_termica h22)
+1759.0: (despachar_termica h22)
+1760.0: (despachar_termica h22)
+1761.0: (despachar_termica h22)
+1762.0: (despachar_termica h22)
+1763.0: (despachar_termica h22)
+1764.0: (despachar_termica h22)
+1765.0: (despachar_termica h22)
+1766.0: (despachar_termica h22)
+1767.0: (despachar_termica h22)
+1768.0: (despachar_termica h22)
+1769.0: (despachar_termica h22)
+1770.0: (despachar_termica h22)
+1771.0: (despachar_termica h22)
+1772.0: (despachar_termica h22)
+1773.0: (despachar_termica h22)
+1774.0: (despachar_termica h22)
+1775.0: (despachar_termica h22)
+1776.0: (despachar_termica h22)
+1777.0: (despachar_termica h22)
+1778.0: (avanzar_hora h22 h23)
+
+Plan-Length:1779
+Metric (Search):942650.0
+Planning Time (msec): 1314
+Heuristic Time (msec): 262
+Search Time (msec): 621
+Expanded Nodes:1780
+States Evaluated:1779
+Fixed constraint violations during search (zero-crossing):0
+Number of Dead-Ends detected:0
+Number of Duplicates detected:0

@@ -1,0 +1,4 @@
+key,value
+hydro_energy_budget_MWh,12000
+thermal_ramp_MW_per_h,200
+hydro_ramp_MW_per_h,100

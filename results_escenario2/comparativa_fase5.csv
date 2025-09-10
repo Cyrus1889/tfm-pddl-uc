@@ -1,0 +1,3 @@
+enfoque,costo_total,tiempo_s,demanda_cubierta_pct,porcentaje_renovables_pct,pv_no_utilizada_mwh
+MILP,1533670.0,,100.0,70.47368421052632,0.0
+PDDL,1442000.0,,8.333333333333332,71.15384615384616,0.0

@@ -1,0 +1,8 @@
+VERIFICACIÓN DEL GOAL PDDL
+--------------------------
+[Objetivo hora_actual] OK: última hora alcanzada = h23.
+[Objetivo demanda] OK: demanda_residual=60.000 < unidad_despacho=70.0.
+
+VERIFICACIÓN GENERAL
+--------------------
+Sin observaciones. Todo consistente.
